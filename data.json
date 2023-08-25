@@ -1,47 +1,47 @@
 {
-    "canciones" : [
-        {
-            "name": "Provenza",
-            "artista": "Karol G",
-            "image": "https://w.forfun.com/fetch/52/5240d4c9fc9a18de6d58e1c264f7a6a8.jpeg",
-            "url": "https://firebasestorage.googleapis.com/v0/b/registrosruc.appspot.com/o/KAROL%20G%20-%20PROVENZA%20(Official%20Video).mp3?alt=media&token=90705445-dff2-414b-90b9-d3c49aa8f581",
-            "genero":"pop"
-        },
-        {
-            "name": "Provenza",
-            "artista": "Karol G",
-            "image": "https://w.forfun.com/fetch/52/5240d4c9fc9a18de6d58e1c264f7a6a8.jpeg",
-            "url": "https://firebasestorage.googleapis.com/v0/b/registrosruc.appspot.com/o/KAROL%20G%20-%20PROVENZA%20(Official%20Video).mp3?alt=media&token=90705445-dff2-414b-90b9-d3c49aa8f581",
-            "genero":"pop"
-        },
-        {
-            "name": "Provenza",
-            "artista": "Karol G",
-            "image": "https://w.forfun.com/fetch/52/5240d4c9fc9a18de6d58e1c264f7a6a8.jpeg",
-            "url": "https://firebasestorage.googleapis.com/v0/b/registrosruc.appspot.com/o/KAROL%20G%20-%20PROVENZA%20(Official%20Video).mp3?alt=media&token=90705445-dff2-414b-90b9-d3c49aa8f581",
-            "genero":"pop"
-        },
-        {
-            "name": "Provenza",
-            "artista": "Karol G",
-            "image": "https://w.forfun.com/fetch/52/5240d4c9fc9a18de6d58e1c264f7a6a8.jpeg",
-            "url": "https://firebasestorage.googleapis.com/v0/b/registrosruc.appspot.com/o/KAROL%20G%20-%20PROVENZA%20(Official%20Video).mp3?alt=media&token=90705445-dff2-414b-90b9-d3c49aa8f581",
-            "genero":"pop"
-        },
-        {
-            "name": "Provenza",
-            "artista": "Karol G",
-            "image": "https://w.forfun.com/fetch/52/5240d4c9fc9a18de6d58e1c264f7a6a8.jpeg",
-            "url": "https://firebasestorage.googleapis.com/v0/b/registrosruc.appspot.com/o/KAROL%20G%20-%20PROVENZA%20(Official%20Video).mp3?alt=media&token=90705445-dff2-414b-90b9-d3c49aa8f581",
-            "genero":"pop"
-        }
-    ],
-    "notificacion":[
-        {
-            "titulo":"titulo",
-            "mensaje":"mensaje",
-            "imagen":"imagen",
-            "url":"url"
-        }
-    ]
+  "canciones": [
+    {
+      "name": "Provenza",
+      "artista": "Karol G",
+      "image": "https://drive.google.com/file/d/14Phw5beyJwrh5LdNF7STlCmphzfrJ8hs/view",
+      "url": "https://firebasestorage.googleapis.com/v0/b/registrosruc.appspot.com/o/KAROL%20G%20-%20PROVENZA%20(Official%20Video).mp3?alt=media&token=90705445-dff2-414b-90b9-d3c49aa8f581",
+      "genero": "pop"
+    },
+    {
+      "name": "Te hubieras ido antes",
+      "artista": "Julion Alvarez",
+      "image": "https://drive.google.com/file/d/12hTW3S2SVWFHLrjyJP61tMXtSJZ7g9dd/view",
+      "url": "https://drive.google.com/file/d/12EIstsm_VvvZ8dgoJdbeF-Ar4bdx7oQi/view?usp=sharing",
+      "genero": "Banda"
+    },
+    {
+      "name": "No elegí conocerte",
+      "artista": "ms",
+      "image": "https://drive.google.com/file/d/1ah7e5a8OSMqupKUEwRpB2p2C-Q9HRbz5/view?usp=sharing",
+      "url": "https://drive.google.com/file/d/1Uqnbsf1H3Buc-Pqj4fCoHltFxngrWK9n/view?usp=sharing",
+      "genero": "Banda"
+    },
+    {
+      "name": "Karin Leon",
+      "artista": "Karin Leon",
+      "image": "https://w.forfun.com/fetch/52/5240d4c9fc9a18de6d58e1c264f7a6a8.jpeg",
+      "url": "https://firebasestorage.googleapis.com/v0/b/registrosruc.appspot.com/o/KAROL%20G%20-%20PROVENZA%20(Official%20Video).mp3?alt=media&token=90705445-dff2-414b-90b9-d3c49aa8f581",
+      "genero": "pop"
+    },
+    {
+      "name": "Provenza",
+      "artista": "Peso Pluma",
+      "image": "https://w.forfun.com/fetch/52/5240d4c9fc9a18de6d58e1c264f7a6a8.jpeg",
+      "url": "https://firebasestorage.googleapis.com/v0/b/registrosruc.appspot.com/o/KAROL%20G%20-%20PROVENZA%20(Official%20Video).mp3?alt=media&token=90705445-dff2-414b-90b9-d3c49aa8f581",
+      "genero": "pop"
+    }
+  ],
+  "notificacion": [
+    {
+      "titulo": "titulo",
+      "mensaje": "mensaje",
+      "imagen": "imagen",
+      "url": "url"
+    }
+  ]
 }
