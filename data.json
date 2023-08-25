@@ -22,18 +22,18 @@
       "genero": "Banda"
     },
     {
-      "name": "Karin Leon",
+      "name": "Primera Cita",
       "artista": "Karin Leon",
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fcarin_leon.jpg?alt=media&token=e93464e5-18c6-4f5e-8d9b-934915e4d8dd",
-      "url": "https://firebasestorage.googleapis.com/v0/b/registrosruc.appspot.com/o/KAROL%20G%20-%20PROVENZA%20(Official%20Video).mp3?alt=media&token=90705445-dff2-414b-90b9-d3c49aa8f581",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FCarin%20Le%C3%B3n%20-%20Primera%20Cita.mp3?alt=media&token=820cc11b-93cf-4bdf-8e08-fd2bf2b57303",
       "genero": "pop"
     },
     {
       "name": "Ella baila sola",
       "artista": "Peso Pluma",
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2FPeso_pluma.jpg?alt=media&token=28e01b92-61b8-4fb2-8e5f-7d168bf265da",
-      "url": "https://firebasestorage.googleapis.com/v0/b/registrosruc.appspot.com/o/KAROL%20G%20-%20PROVENZA%20(Official%20Video).mp3?alt=media&token=90705445-dff2-414b-90b9-d3c49aa8f581",
-      "genero": "pop"
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/corridos%2FEslabo%20Armado%2C%20Peso%20Pluma%20-%20Ella%20Baila%20Sola.mp3?alt=media&token=e106fd19-da79-455c-8621-833fa6d76233",
+      "genero": "Corridos"
     }
   ],
   "notificacion": [
