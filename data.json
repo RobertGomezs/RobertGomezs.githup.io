@@ -23,10 +23,10 @@
     },
     {
       "name": "Primera Cita",
-      "artista": "Karin Leon",
+      "artista": "Carin Leon",
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fcarin_leon.jpg?alt=media&token=e93464e5-18c6-4f5e-8d9b-934915e4d8dd",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FCarin%20Le%C3%B3n%20-%20Primera%20Cita.mp3?alt=media&token=820cc11b-93cf-4bdf-8e08-fd2bf2b57303",
-      "genero": "pop"
+      "genero": "Banda"
     },
     {
       "name": "Ella baila sola",
@@ -34,6 +34,55 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2FPeso_pluma.jpg?alt=media&token=28e01b92-61b8-4fb2-8e5f-7d168bf265da",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/corridos%2FEslabo%20Armado%2C%20Peso%20Pluma%20-%20Ella%20Baila%20Sola.mp3?alt=media&token=e106fd19-da79-455c-8621-833fa6d76233",
       "genero": "Corridos"
+    },
+    {
+      "name": "Cuando te ame",
+      "artista": "Julion Alvarez",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fjulion.jpg?alt=media&token=08817179-0725-413f-8809-d4ca5218851e",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FJuli%C3%B3n%20Alvarez%20-%20Cuando%20te%20am%C3%A9.mp3?alt=media&token=2c50dcf8-1047-481c-b225-868a57356419",
+      "genero": "Banda"
+    },
+    {
+      "name": "Afuera Esta Lloviendo",
+      "artista": "Julion Alvarez",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fjulion.jpg?alt=media&token=08817179-0725-413f-8809-d4ca5218851e",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FJuli%C3%B3n%20%C3%81lvarez%20-%20Afuera%20Est%C3%A1%20Lloviendo%20(LetraLyric).mp3?alt=media&token=54336cf4-ff87-4518-9973-5bdebff96efd",
+      "genero": "Banda"
+    },
+    {
+      "name": "La Sonrisa Obligatoria",
+      "artista": "Julion Alvarez",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fjulion.jpg?alt=media&token=08817179-0725-413f-8809-d4ca5218851e",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FJuli%C3%B3n%20%C3%81lvarez%20y%20Su%20Norte%C3%B1o%20Banda%20-%20La%20Sonrisa%20Obligatoria.mp3?alt=media&token=e2121af6-d107-4b65-b405-64e98d576eb8",
+      "genero": "Banda"
+    },
+    {
+      "name": "Mas te recuerdo",
+      "artista": "Julion Alvarez",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fjulion.jpg?alt=media&token=08817179-0725-413f-8809-d4ca5218851e",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FJuli%C3%B3n%20Alvarez%20-%20Mas%20te%20recuerdo%20(Video%20Oficial).mp3?alt=media&token=150a44fc-4e71-487d-917c-1391d65d42f0",
+      "genero": "Banda"
+    },
+    {
+      "name": "Tenias Razon ",
+      "artista": "Julion Alvarez",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fjulion.jpg?alt=media&token=08817179-0725-413f-8809-d4ca5218851e",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FJuli%C3%B3n%20%C3%81lvarez%20-%20Ten%C3%ADas%20Raz%C3%B3n%20(LETRA).mp3?alt=media&token=91e45677-9de8-4526-8900-d05ef1c93683",
+      "genero": "Banda"
+    },
+    {
+      "name": "NO ME PIDAS PERDON",
+      "artista": "ms",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fms.jpg?alt=media&token=fe2c4d8a-b857-4e6a-985f-e14cb6a27d36",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBANDA%20MS%20-%20NO%20ME%20PIDAS%20PERD%C3%93N%20(LETRA).mp3?alt=media&token=488a3bf3-5830-4873-a038-144aaf3863f0",
+      "genero": "Banda"
+    },
+    {
+      "name": "Tengo que colgar",
+      "artista": "ms",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fms.jpg?alt=media&token=fe2c4d8a-b857-4e6a-985f-e14cb6a27d36",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FTengo%20que%20colgar.mp3?alt=media&token=7312fae0-9c88-4e2b-a260-fb1bd1337ca2",
+      "genero": "Banda"
     }
   ],
   "notificacion": [
