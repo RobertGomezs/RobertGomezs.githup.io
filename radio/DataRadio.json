@@ -1,0 +1,57 @@
+{
+  "Data": [
+    {
+      "RadioName": "Los 40 ESP",
+      "RadioURL": "https://21263.live.streamtheworld.com/LOS40_SC",
+      "RadioPic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBrkCrK7bhW_EvkiAD4rfgnwTJzHm9FgejJyC60EHQ51VE8Llo121_e6qNjnUrqWa2B-c&usqp=CAU"
+    },
+    {
+      "RadioName": "W radio",
+      "RadioURL": "https://18863.live.streamtheworld.com/W_RADIO_SC",
+      "RadioPic": "https://static.mytuner.mobi/media/tvos_radios/GPfpRZTHz7.jpg"
+    },
+    {
+      "RadioName": "Ke buena",
+      "RadioURL": "https://18153.live.streamtheworld.com/KEBUENAAAC_SC",
+      "RadioPic": "https://static.mytuner.mobi/media/tvos_radios/B2eyugprMp.png"
+    },
+    {
+      "RadioName": "La Comadre",
+      "RadioURL": "https://25043.live.streamtheworld.com/XELAMAAC_SC",
+      "RadioPic": "https://static.mytuner.mobi/media/tvos_radios/mggcxjynk62r.jpeg"
+    },
+    {
+      "RadioName": "Imagen Radio",
+      "RadioURL": "https://26193.live.streamtheworld.com/XEDAFMAAC_SC",
+      "RadioPic": "https://static.mytuner.mobi/media/tvos_radios/dx89datuyxet.png"
+    },
+    {
+      "RadioName": "Amor 95.3",
+      "RadioURL": "https://13743.live.streamtheworld.com/XHSHFMAAC_SC",
+      "RadioPic": "https://static.mytuner.mobi/media/tvos_radios/AvrZwexREf.jpg"
+    },
+    {
+      "RadioName": "106.5 Mix",
+      "RadioURL": "https://18233.live.streamtheworld.com/XHDFMFMAAC_SC",
+      "RadioPic": "https://static.mytuner.mobi/media/tvos_radios/QcAZwkB4r5.png"
+    },
+    {
+      "RadioName": "La mejor 97.7",
+      "RadioURL": "https://22833.live.streamtheworld.com/XERCFM_SC",
+      "RadioPic": "https://cdn.webrad.io/images/logos/emisoras-com-mx/la-mejor-ciudad-de-mexico.png"
+    },
+    {
+      "RadioName": "exa",
+      "RadioURL": "https://18003.live.streamtheworld.com/XHEXA_SC",
+      "RadioPic": "https://cdn.webrad.io/images/logos/emisoras-com-mx/exa-104-9.png"
+    },
+    {
+      "RadioName": "La Ranchera 10.50",
+      "RadioURL": "http://streamingcwsradio30.com:8242/",
+      "RadioPic": "https://cdn.webrad.io/images/logos/emisoras-com-mx/ranchera-monterrey.png"
+    }
+
+  ],
+  "Message": "72",
+  "Result": 1
+}
