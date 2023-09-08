@@ -321,8 +321,42 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fjoan%20Sebastian.jpg?alt=media&token=41e5d646-18b7-43f7-a672-1635a83d654d",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FJoan%20Sebastian%2FVeinticinco%20rosas%20--%20Joan%20Sebastian.%20(%20CON%20LETRA%20).mp3?alt=media&token=d2198ef4-c0d6-4240-966a-fdad6dcd99eb",
       "genero": "Romanticas"
+    },
+    {
+      "name": "Tu me quieres lastimar",
+      "artista": "Ladron",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fladron.jpg?alt=media&token=19e68948-c2aa-4543-b442-770bc43f8ab8",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLadron%2FGrupo%20Ladr%C3%B3n%20-%20T%C3%BA%20Me%20Quieres%20Lastimar%20-%20Letra.mp3?alt=media&token=c0ae52bc-d20f-42bc-821f-d5bd335d40a1",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Sola",
+      "artista": "Ladron",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fladron.jpg?alt=media&token=19e68948-c2aa-4543-b442-770bc43f8ab8",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLadron%2FLadron%20Sola%20Letra.mp3?alt=media&token=2a340251-4b6a-4ee6-b174-413ccf25c1a3",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "No tengo lagrimas",
+      "artista": "Ladron",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fladron.jpg?alt=media&token=19e68948-c2aa-4543-b442-770bc43f8ab8",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLadron%2FLadr%C3%B3n%20-%20No%20Tengo%20L%C3%A1grimas.mp3?alt=media&token=9d0b649b-1634-40f2-9375-30d2a9968706",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Mi Castigo",
+      "artista": "Ladron",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fladron.jpg?alt=media&token=19e68948-c2aa-4543-b442-770bc43f8ab8",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLadron%2FMi%20Castigo-%20Ladron.mp3?alt=media&token=60302f2d-1367-4753-8ee2-fc0d64d26873",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Y es que la quiero",
+      "artista": "Ladron",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fladron.jpg?alt=media&token=19e68948-c2aa-4543-b442-770bc43f8ab8",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLadron%2FY%20Es%20Que%20La%20Quiero%20-%20Ladron.mp3?alt=media&token=1e20bfc9-75d7-41b2-94c7-a95399e59898",
+      "genero": "Romanticas"
     }
-
 
   ],
   "notificacion": [
