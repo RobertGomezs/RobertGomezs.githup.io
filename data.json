@@ -113,7 +113,7 @@
       "genero": "Banda"
     },
     {
-      "name": "Me vas a extranar",
+      "name": "Me vas a extrañar",
       "artista": "ms",
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fms.jpg?alt=media&token=fe2c4d8a-b857-4e6a-985f-e14cb6a27d36",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FMe%20vas%20a%20extranar.mp3?alt=media&token=3696e164-044e-494e-a64c-6f3047420fd5",
@@ -327,7 +327,7 @@
       "artista": "Joan Sebastian",
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fjoan%20Sebastian.jpg?alt=media&token=41e5d646-18b7-43f7-a672-1635a83d654d",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FJoan%20Sebastian%2FVeinticinco%20rosas%20--%20Joan%20Sebastian.%20(%20CON%20LETRA%20).mp3?alt=media&token=d2198ef4-c0d6-4240-966a-fdad6dcd99eb",
-      "genero": "Romantícas"
+      "genero": "Romanticas"
     }
 
 
