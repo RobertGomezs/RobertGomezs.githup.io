@@ -356,6 +356,125 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fladron.jpg?alt=media&token=19e68948-c2aa-4543-b442-770bc43f8ab8",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLadron%2FY%20Es%20Que%20La%20Quiero%20-%20Ladron.mp3?alt=media&token=1e20bfc9-75d7-41b2-94c7-a95399e59898",
       "genero": "Romanticas"
+    },
+    {
+      "name": "Enamorado de un Fantasma",
+      "artista": "Liberacion",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fliberacion.jpg?alt=media&token=b57535c2-e0f9-478b-8ae1-1330f74b3030",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLiberacion%2FEnamorado%20de%20un%20Fantasma%20-%20Liberacion.mp3?alt=media&token=0ab1ebe5-8e31-4a07-8f28-d3fb50c35832",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Ese loco soy yo ",
+      "artista": "Liberacion",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fliberacion.jpg?alt=media&token=b57535c2-e0f9-478b-8ae1-1330f74b3030",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLiberacion%2FGrupo%20Liberacion%20-%20Ese%20Loco%20Soy%20Yo%20(Letra).mp3?alt=media&token=eb21ef59-7d5d-4e41-b759-9cb1cbfeb17a",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Como una novela",
+      "artista": "Los acosta",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2FAcostas.jpg?alt=media&token=aa7d83eb-a54f-4c8d-9a93-5b7ce0f32f8f",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLos%20acostas%2FLos%20Acosta%20-%20Como%20Una%20Novela%20(Chyron).mp3?alt=media&token=1e500bb2-6158-4943-a86b-347aaebc8cee",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Contra el dragon",
+      "artista": "Los acosta",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2FAcostas.jpg?alt=media&token=aa7d83eb-a54f-4c8d-9a93-5b7ce0f32f8f",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLos%20acostas%2FLos%20Acosta%20-%20Contra%20El%20Drag%C3%B3n%20(Chyron).mp3?alt=media&token=706668bc-211d-43fe-afdf-7460d0195125",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Deja una rosa rn tu balcon",
+      "artista": "Los acosta",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2FAcostas.jpg?alt=media&token=aa7d83eb-a54f-4c8d-9a93-5b7ce0f32f8f",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLos%20acostas%2FLos%20Acosta%20-%20Deja%20Una%20Rosa%20En%20Tu%20Balc%C3%B3n%20(Chyron).mp3?alt=media&token=0524635b-4663-4397-8259-718e7348d0df",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Tiene apenas 16",
+      "artista": "Los acosta",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2FAcostas.jpg?alt=media&token=aa7d83eb-a54f-4c8d-9a93-5b7ce0f32f8f",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLos%20acostas%2FLos%20Acosta%20-%20Tiene%20Apenas%2016.mp3?alt=media&token=fafef357-9e58-401f-b5b8-e15e412d471d",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Perdon por tus lagrimas",
+      "artista": "Los Yonics",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fjonys.jpg?alt=media&token=2572e993-b23b-43c4-9838-152f6bba2287",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLos%20yonics%2FLos%20Yonics%20-%20Perd%C3%B3n%20Por%20Tus%20L%C3%A1grimas%20(Audio).mp3?alt=media&token=a849c245-b02d-47ad-81c6-da2010e02de6",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Un Dolor",
+      "artista": "Los Yonics",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fjonys.jpg?alt=media&token=2572e993-b23b-43c4-9838-152f6bba2287",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLos%20yonics%2FLos%20Yonics%20-%20Un%20Dolor%20(Audio).mp3?alt=media&token=9a9a04f2-03d5-4843-a953-ff6f47118a99",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Ni tu amigo ni tu amante",
+      "artista": "Los Yonics",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fjonys.jpg?alt=media&token=2572e993-b23b-43c4-9838-152f6bba2287",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLos%20yonics%2FNi%20Tu%20Amigo%20Ni%20Tu%20Amante.mp3?alt=media&token=9eeef1ec-52b1-4cd3-9cc3-248d9cf32579",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Palabras Tristes",
+      "artista": "Los Yonics",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fjonys.jpg?alt=media&token=2572e993-b23b-43c4-9838-152f6bba2287",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLos%20yonics%2FPalabras%20Tristes.mp3?alt=media&token=a0867584-ce39-4016-9c5d-6b0775d59fad",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Rosas Blancas",
+      "artista": "Los Yonics",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fjonys.jpg?alt=media&token=2572e993-b23b-43c4-9838-152f6bba2287",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLos%20yonics%2FRosas%20Blancas.mp3?alt=media&token=f8ec588c-3be4-465d-b29b-85b4b3a5e2c1",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Soy yo",
+      "artista": "Los Yonics",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fjonys.jpg?alt=media&token=2572e993-b23b-43c4-9838-152f6bba2287",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLos%20yonics%2FSoy%20Yo.mp3?alt=media&token=742870db-f0a1-454e-aea1-1ce943e0ddd3",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Titere",
+      "artista": "Los Yonics",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fjonys.jpg?alt=media&token=2572e993-b23b-43c4-9838-152f6bba2287",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLos%20yonics%2FTitere.mp3?alt=media&token=cdf52b9a-26f1-40ef-91e7-bb0ba4288360",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Y te amo",
+      "artista": "Los Yonics",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fjonys.jpg?alt=media&token=2572e993-b23b-43c4-9838-152f6bba2287",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FLos%20yonics%2FY%20Te%20Amo.mp3?alt=media&token=d68ec3e9-229f-4a44-aa26-9fd2d061d17f",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "A mentir a la Calle",
+      "artista": "Grupo Libra",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Flibra.jpg?alt=media&token=8d1e8d63-0980-40f2-b187-00caf512fd55",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Flibra%2FA%20Mentir%20a%20la%20Calle.mp3?alt=media&token=aeefc297-4a37-4361-81db-dd392dceff55",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Del Signo Libra",
+      "artista": "Grupo Libra",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Flibra.jpg?alt=media&token=8d1e8d63-0980-40f2-b187-00caf512fd55",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Flibra%2FEl%20Grupo%20Libra%20Del%20Signo%20Libra%20(Letra%20Oficial).mp3?alt=media&token=8aba87ed-79ba-4684-aeae-6fd098df4d0c",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Y nunca comprendi",
+      "artista": "Grupo Libra",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Flibra.jpg?alt=media&token=8d1e8d63-0980-40f2-b187-00caf512fd55",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Flibra%2FY%20Nunca%20Comprend%C3%AD.mp3?alt=media&token=86a6c609-57b8-4472-89e7-2d3e65155d60",
+      "genero": "Romanticas"
     }
 
   ],
