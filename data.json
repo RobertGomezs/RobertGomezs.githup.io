@@ -475,8 +475,217 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Flibra.jpg?alt=media&token=8d1e8d63-0980-40f2-b187-00caf512fd55",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Flibra%2FY%20Nunca%20Comprend%C3%AD.mp3?alt=media&token=86a6c609-57b8-4472-89e7-2d3e65155d60",
       "genero": "Romanticas"
+    },
+    {
+      "name": "El paciente",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F01.-%20EL%20PACIENTE%20(tema%20nuevo)%20-%20alfredo%20olivas.mp3?alt=media&token=df24b0dc-2ca8-40fa-aca7-5ab8059016a0",
+      "genero": "Regional"
+    },
+    {
+      "name": "Y por que no",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F02.-%20Y%20POR%20QUE%20NO%20-%20alfredo%20olivas.mp3?alt=media&token=fb3bb86a-bcf5-43d2-9962-17a0270090aa",
+      "genero": "Regional"
+    },
+    {
+      "name": "Y por lo pronto",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F03.-%20Y%20POR%20LO%20PRONTO%20-%20alfredo%20olivas.mp3?alt=media&token=f907006b-0c16-444d-aabe-a785d908cf64",
+      "genero": "Regional"
+    },
+    {
+      "name": "Todo o nada",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F04.-%20TODO%20O%20NADA%20(La%20Sigo%20Y%20Me%20Sigue)%20-%20alfredo%20olivas.mp3?alt=media&token=b69c2efd-669c-42d1-93bf-4e58f1bd84b5",
+      "genero": "Regional"
+    },
+    {
+      "name": "Nuevos Talentos",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F05.-%20NUEVOS%20TALENTOS%20-%20alfredo%20olivas.mp3?alt=media&token=70367cdb-81bf-4990-8761-e85f6c28b409",
+      "genero": "Regional"
+    },
+    {
+      "name": "Tus lagrimas",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F06.-%20TUS%20LAGRIMAS%20-%20alfredo%20olivas.mp3?alt=media&token=7e2dc0bf-a430-4260-847b-adeb3749ac46",
+      "genero": "Regional"
+    },
+    {
+      "name": "Con lo novedad",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F07.-%20CON%20LA%20NOVEDAD%20-%20alfredo%20olivas.mp3?alt=media&token=eae10237-5dac-4b50-9c01-4234b5af053f",
+      "genero": "Regional"
+    },
+    {
+      "name": "Asi es esto",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F08.-%20ASI%20ES%20ESTO%20-%20alfredo%20olivas.mp3?alt=media&token=2f2ccb80-0469-4b7b-bb2c-f3ce09f79917",
+      "genero": "Regional"
+    },
+    {
+      "name": "Cuando valgas la pena",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F09.-%20CUANDO%20VALGAS%20LA%20PENA%20-%20alfredo%20olivas.mp3?alt=media&token=03b741a4-4ecb-4917-8278-2c21ec10920d",
+      "genero": "Regional"
+    },
+    {
+      "name": "Inicio del final",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F10.-%20EL%20INICIO%20DEL%20FINAL%20-%20alfredo%20olivas.mp3?alt=media&token=e941c34d-b885-4a22-b6ae-06aa9b1f0192",
+      "genero": "Regional"
+    },
+    {
+      "name": "Diez charolas",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F11.-%20DIEZ%20CHAROLAS%20-%20alfredo%20olivas.mp3?alt=media&token=f710f92d-2399-4c18-9d8b-34d620288d96",
+      "genero": "Regional"
+    },
+    {
+      "name": "Ya no es normal",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F12.-%20YA%20NO%20ES%20NORMAL%20-%20alfredo%20olivas.mp3?alt=media&token=3873581b-0aa5-4c51-8a17-3e986581f5d8",
+      "genero": "Regional"
+    },
+    {
+      "name": "Laberinto",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F13.-%20LABERINTO%20-%20alfredo%20olivas.mp3?alt=media&token=64560084-a4aa-4e96-b9c7-354d84182bad",
+      "genero": "Regional"
+    },
+    {
+      "name": "Mi por venir",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F14.-%20MI%20PORVENIR%20-%20alfredo%20olivas.mp3?alt=media&token=598a9d3e-21fa-4ac6-b1de-a95f356be199",
+      "genero": "Regional"
+    },
+    {
+      "name": "Villana del cuento",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F15.-%20VILLANA%20DE%20CUENTO%20-%20alfredo%20olivas.mp3?alt=media&token=f1853f9c-cbde-49c1-9e51-684a7ad535d1",
+      "genero": "Regional"
+    },
+    {
+      "name": "Privilegio",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F16.-%20PRIVILEGIO%20-%20alfredo%20olivas.mp3?alt=media&token=0fdd399a-c741-433e-ac07-9377e407fd40",
+      "genero": "Regional"
+    },
+    {
+      "name": "Ultimamente",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F17.-%20ULTIMAMENTE%20(Con%20Mariachi)%20-%20alfredo%20olivas.mp3?alt=media&token=479613bd-7773-4039-9867-f35d00a3c465",
+      "genero": "Regional"
+    },
+    {
+      "name": "Ya que meti la pata",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F18.-%20YA%20QUE%20METI%20LA%20PATA%20-%20alfredo%20olivas.mp3?alt=media&token=65c2d6fb-1867-410d-9b01-af5311e4118a",
+      "genero": "Regional"
+    },
+    {
+      "name": "El malo de culiacan",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F19.-%20EL%20MALO%20DE%20CULIACAN%20-%20alfredo%20olivas.mp3?alt=media&token=3855acd1-cf44-4ffb-b73c-07098abf6d67",
+      "genero": "Regional"
+    },
+    {
+      "name": "El amigo moises",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F20.-%20EL%20AMIGO%20MOISES%20-%20alfredo%20olivas.mp3?alt=media&token=36dee0db-97e6-4190-be77-5bcf1bc0cb6f",
+      "genero": "Regional"
+    },
+    {
+      "name": "El patrocinio",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F21.-%20EL%20PATRONCITO%20-%20alfredo%20olivas.mp3?alt=media&token=19ed2406-2e90-4fb6-bae6-a45521809903",
+      "genero": "Regional"
+    },
+    {
+      "name": "El principio del infierno",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F22.-%20EL%20PRINCIPIO%20DEL%20INFIERNO%20-%20alfredo%20olivas.mp3?alt=media&token=90b512de-fbb1-4e67-871f-2550535de1f4",
+      "genero": "Regional"
+    },
+    {
+      "name": "El propietario del poder",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F23.-%20PROPIETARIO%20DEL%20PODER%20-%20alfredo%20olivas.mp3?alt=media&token=aa28faec-11db-4d7b-b906-a712d3f72294",
+      "genero": "Regional"
+    },
+    {
+      "name": "El chico problemas",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F24.-%20EL%20CHICO%20PROBLEMA%20-%20alfredo%20olivas.mp3?alt=media&token=4e4fd8ee-f231-4bd8-b068-6b276e090644",
+      "genero": "Regional"
+    },
+    {
+      "name": "Las vacaciones del jefe",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F25.-%20LAS%20VACACIONES%20DEL%20JEFE%20-%20alfredo%20olivas.mp3?alt=media&token=f5ae9be4-1ccb-40ad-9f42-69a5dc27c8ad",
+      "genero": "Regional"
+    },
+    {
+      "name": "El idioma se mi super",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F26.-%20EL%20IDIOMA%20DE%20MI%20SUPER%20-%20alfredo%20olivas.mp3?alt=media&token=8a07531a-0428-42d3-a391-794e6557ecd0",
+      "genero": "Regional"
+    },
+    {
+      "name": "El telaraña",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F27.-%20EL%20TELARA%C3%91A%20-%20alfredo%20olivas.mp3?alt=media&token=68afd1d1-baf1-4711-b462-acda6d27ae32",
+      "genero": "Regional"
+    },
+    {
+      "name": "Mañana",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F28.-%20MA%C3%91ANA%20-%20alfredo%20olivas.mp3?alt=media&token=2717da8d-7dee-4ab1-a78a-c158dfbd4274",
+      "genero": "Regional"
+    },
+    {
+      "name": "Autorizame",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F29.-%20AUTORIZAME%20-%20alfredo%20olivas.mp3?alt=media&token=82f7a7a3-4d86-446a-9f8b-a1dffd60f438",
+      "genero": "Regional"
+    },
+    {
+      "name": "El cuestionario",
+      "artista": "Alfredo Olivas",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F30.-%20EL%20CUESTIONARIO%20-%20alfredo%20olivas.mp3?alt=media&token=0ea148bd-df11-4d95-b7e9-1de4a3651c2e",
+      "genero": "Regional"
     }
-
   ],
   "notificacion": [
     {
