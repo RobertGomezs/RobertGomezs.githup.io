@@ -1044,7 +1044,7 @@
       "genero": "Banda"
     },
     {
-      "name": "Lamejor de todas",
+      "name": "La mejor de todas",
       "artista": "Banda el recodo",
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F20%20LA%20MEJOR%20DE%20TODAS.mp3?alt=media&token=2f25b1ce-de45-4376-a018-c2468e9fb4f2",
@@ -1175,7 +1175,204 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2FBanda%20El%20Recodo%20De%20Cruz%20Lizrraga%20-%20De%20Ti%20Me%20Enamore.mp3?alt=media&token=66a15207-3843-416c-a642-8cfabeeb99bb",
       "genero": "Banda"
+    },
+    {
+      "name": "Dos palomas al volar",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F003%20DOS%20PALOMAS%20AL%20VOLAR.mp3?alt=media&token=163507ce-aafb-48a8-b019-a68a37dd73b0",
+      "genero": "Banda"
+    },
+    {
+      "name": "No compro amores",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F004%20NO%20COMPRO%20AMORES.mp3?alt=media&token=26bedf10-a964-4bea-a000-6a33368a91ef",
+      "genero": "Banda"
+    },
+    {
+      "name": "Sabor de engaño",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F005%20SABOR%20DE%20ENGA%C3%91O.mp3?alt=media&token=2333c81f-410a-43a6-a00d-647eaa7acd2a",
+      "genero": "Banda"
+    },
+    {
+      "name": "El arbol de la horca",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F006%20EL%20ARBOL%20DE%20LA%20HORCA.mp3?alt=media&token=56850374-99db-4ae4-816d-7bebc9a2909a",
+      "genero": "Banda"
+    },
+    {
+      "name": "Mujer paseada",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F007%20MUJER%20PASEADA.mp3?alt=media&token=8cbf1502-5d37-4678-9266-47fd42163e8a",
+      "genero": "Banda"
+    },
+    {
+      "name": "Dos monedas",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F008%20DOS%20MONEDAS.mp3?alt=media&token=950bcab0-3434-4c96-a1dc-305259069478",
+      "genero": "Banda"
+    },
+    {
+      "name": "Compadecete mujer",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F009%20COMPADECETE%20MUJER.mp3?alt=media&token=99f217f8-e693-467e-ba33-adb736930603",
+      "genero": "Banda"
+    },
+    {
+      "name": "Entre hierva polvo y plomo",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F010%20ENTRE%20HIERBA%2C%20POLVO%20Y%20PLOMO.mp3?alt=media&token=f063bbbe-4d44-4a4c-b774-c586658696cc",
+      "genero": "Banda"
+    },
+    {
+      "name": "Tres suspiros",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F011%20TRES%20SUSPIROS.mp3?alt=media&token=000d4377-0502-447b-b4a1-2f7fa8bf0806",
+      "genero": "Banda"
+    },
+    {
+      "name": "Lo primero que vi",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F012%20LO%20PRIMERO%20QUE%20VI%20(Bonus%20Track).mp3?alt=media&token=8a311163-f0f3-4c85-b051-d2f790c57bd5",
+      "genero": "Banda"
+    },
+    {
+      "name": "La apuesta",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F013%20LA%20APUESTA%20(Bonus%20Track)%20feat.%20L.mp3?alt=media&token=7dfc8e22-de3d-4fdd-9898-3cc748c81af6",
+      "genero": "Banda"
+    },
+    {
+      "name": "Con hojas de elote",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F014%20CON%20HOJAS%20DE%20ELOTE%20(Bonus%20Track).mp3?alt=media&token=eebec71e-8754-4ac0-9596-e32ad5a23dbb",
+      "genero": "Banda"
+    },
+    {
+      "name": "Me falta un corazon",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F015%20ME%20FALTA%20UN%20CORAZON.mp3?alt=media&token=eb474ee2-b17a-481a-bf39-1a50864d4c36",
+      "genero": "Banda"
+    },
+    {
+      "name": "Diselo tu",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F016%20DISELO%20TU%20feat.%20Los%20Horoscopos%20D.mp3?alt=media&token=8dd5a1b5-7cd0-4623-8d37-e105e3184151",
+      "genero": "Banda"
+    },
+    {
+      "name": "Supiste hacerme mal",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F017%20SUPISTE%20HACERME%20MAL.mp3?alt=media&token=4bd7d5cb-2720-4370-bc20-1bd7d05c22d6",
+      "genero": "Banda"
+    },
+    {
+      "name": "Broche de oro",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F018%20BROCHE%20DE%20ORO.mp3?alt=media&token=41b0cc5c-6226-482a-9775-2ad99e58a37b",
+      "genero": "Banda"
+    },
+    {
+      "name": "Preguntale",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F019%20PREGUNTALE.mp3?alt=media&token=013eb610-4a61-465c-97b7-5f4e6c50f329",
+      "genero": "Banda"
+    },
+    {
+      "name": "Borracho de amor",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F020%20BORRACHO%20DE%20AMOR.mp3?alt=media&token=1bd5aa0f-ee49-450a-97b4-e0705079ab6c",
+      "genero": "Banda"
+    },
+    {
+      "name": "Como te llamas",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F021%20COMO%20TE%20LLAMAS_.mp3?alt=media&token=55117c53-1ebb-4015-b206-c30ffb29c728",
+      "genero": "Banda"
+    },
+    {
+      "name": "Mi padrino el diablo",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F022%20MI%20PADRINO%20EL%20DIABLO.mp3?alt=media&token=114d116b-7296-4c54-8d07-5c74f7a59b70",
+      "genero": "Banda"
+    },
+    {
+      "name": "Como los gatos",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F023%20COMO%20LOS%20GATOS%20feat.%20Xitlali%20Sar.mp3?alt=media&token=967217f2-73ee-41cd-a40d-7261ba63389f",
+      "genero": "Banda"
+    },
+    {
+      "name": "Tres disparos",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F024%20TRES%20DISPAROS.mp3?alt=media&token=746e20ea-c2ac-4d5f-98a9-c239dbcdd806",
+      "genero": "Banda"
+    },
+    {
+      "name": "Lo siento por ti",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F025%20LO%20SIENTO%20POR%20TI.mp3?alt=media&token=c7d0527d-fda4-47e8-b877-536881bc3c82",
+      "genero": "Banda"
+    },
+    {
+      "name": "Doble vida",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F026%20DOBLE%20VIDA.mp3?alt=media&token=baadf7a1-2081-404e-9ecd-2386122a1950",
+      "genero": "Banda"
+    },
+    {
+      "name": "Un par de ceros",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F027%20UN%20PAR%20DE%20CERDOS.mp3?alt=media&token=1493246a-e161-4c32-b19c-051a77b04bdd",
+      "genero": "Banda"
+    },
+    {
+      "name": "San lunes",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F028%20SAN%20LUNES.mp3?alt=media&token=00233171-ec3d-4881-8c3a-1b9c95ac0e3d",
+      "genero": "Banda"
+    },
+    {
+      "name": "La bestia",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F030%20LA%20BESTIA.mp3?alt=media&token=438ba95c-7d76-40c3-a1f4-1416f2caa760",
+      "genero": "Banda"
+    },
+    {
+      "name": "Terreno limpio",
+      "artista": "Edwin Luna y La trakalosa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F031%20TERRENO%20LIMPIO%20feat.%20Banda%20Tierr.mp3?alt=media&token=6221da3a-7a8a-4467-89c0-6cff25160197",
+      "genero": "Banda"
     }
+
 
   ],
   "notificacion": [
