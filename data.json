@@ -685,7 +685,498 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Falfredo_olivas.jpg?alt=media&token=c7be0e8b-55b4-4103-a005-4a3b8f84dabf",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FAlfredo%20Olivas%2F30.-%20EL%20CUESTIONARIO%20-%20alfredo%20olivas.mp3?alt=media&token=0ea148bd-df11-4d95-b7e9-1de4a3651c2e",
       "genero": "Regional"
+    },
+    {
+      "name": "En toda la chapa",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F01%20EN%20TODA%20LA%20CHAPA.mp3?alt=media&token=58d6baae-dcd4-4152-9e17-726141a20aa2",
+      "genero": "Banda"
+    },
+    {
+      "name": "Mi golondrina",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F02%20MI%20GOLONDRINA.mp3?alt=media&token=d2873225-502d-4861-8ac9-146a3724b4c4",
+      "genero": "Banda"
+    },
+    {
+      "name": "Ya te vale",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F03%20YA%20TE%20VELE.mp3?alt=media&token=60696cf9-3fa2-4b2d-907e-f61c1ace9793",
+      "genero": "Banda"
+    },
+    {
+      "name": "Corazon usado",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F04%20CORAZON%20USADO.mp3?alt=media&token=dd9268e8-08d0-40f9-8a28-feb42f2be4c5",
+      "genero": "Banda"
+    },
+    {
+      "name": "No compro amores",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F05%20NO%20COMPRO%20AMORES.mp3?alt=media&token=3fff3dbf-247b-4720-9da0-0648163a227b",
+      "genero": "Banda"
+    },
+    {
+      "name": "Recuerdame y ven",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F06%20RECUERDAME%20Y%20VEN.mp3?alt=media&token=6bfbcd17-47f1-413f-ae5e-c38af07f3e39",
+      "genero": "Banda"
+    },
+    {
+      "name": "El cerillazo",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F07%20EL%20CERILLAZO.mp3?alt=media&token=8d398db6-40c2-4059-ac25-bfb58a8580a9",
+      "genero": "Banda"
+    },
+    {
+      "name": "Ingratos ojos mios",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F08%20INGRATOS%20OJOS%20MIOS.mp3?alt=media&token=9f536088-9e93-4d2e-8fb4-c02b0a58b0c6",
+      "genero": "Banda"
+    },
+    {
+      "name": "Amor sin medida",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F09%20AMOR%20SIN%20MEDIDA.mp3?alt=media&token=0817f2be-ee4e-496f-9202-306868ea4c39",
+      "genero": "Banda"
+    },
+    {
+      "name": "Las rejas no matan",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F10%20LAS%20REJAS%20NO%20MATAN.mp3?alt=media&token=0a8d7bb5-524c-4d07-a2c4-32f813cb1cce",
+      "genero": "Banda"
+    },
+    {
+      "name": "Vivir sin ella",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F11%20VIVIR%20SIN%20ELLA.mp3?alt=media&token=1cada29a-7c77-4022-ae85-624dc2680eb2",
+      "genero": "Banda"
+    },
+    {
+      "name": "Besame y abrazame",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F12%20BESAME%20Y%20ABRAZAME.mp3?alt=media&token=4b9226fe-d574-4342-a167-41bcd08d1007",
+      "genero": "Banda"
+    },
+    {
+      "name": "Entre amigos",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F13%20ENTRE%20AMIGOS.mp3?alt=media&token=4607fc3d-13ec-4fd3-9af5-70efbf9a45a5",
+      "genero": "Banda"
+    },
+    {
+      "name": "Me dejas",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F14%20ME%20DEJAS.mp3?alt=media&token=21a31658-9cb6-4745-a3da-1060675382a7",
+      "genero": "Banda"
+    },
+    {
+      "name": "Toda mia",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F15%20TODA%20MIA.mp3?alt=media&token=540c0176-e5c2-4446-ad87-ccfcd9e7bc70",
+      "genero": "Banda"
+    },
+    {
+      "name": "Las mafias del norte",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F16%20LAS%20MAFIAS%20DEL%20NORTE.mp3?alt=media&token=cd0c5608-44c1-4e20-a364-2419666652fe",
+      "genero": "Banda"
+    },
+    {
+      "name": "Historia sin fin",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F17%20HISTORIA%20SIN%20FIN.mp3?alt=media&token=b33259b4-93df-479e-972d-10880d90c711",
+      "genero": "Banda"
+    },
+    {
+      "name": "Tres minutos",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F18%20TRES%20MINUTOS.mp3?alt=media&token=5d42a203-e93b-49b5-b0d7-ffca37d596a8",
+      "genero": "Banda"
+    },
+    {
+      "name": "Me canse de ti",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F19%20ME%20CANSE%20DE%20TI.mp3?alt=media&token=2a0677de-b21c-4842-9505-47117237652c",
+      "genero": "Banda"
+    },
+    {
+      "name": "Desesperadamente",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F20%20DESESPERADAMENTE.mp3?alt=media&token=cfc5714f-d6b4-4590-b262-c4896685b10e",
+      "genero": "Banda"
+    },
+    {
+      "name": "Volver a empezar",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F21%20VOLVER%20A%20EMPEZAR.mp3?alt=media&token=92e8c5b0-c5bb-497e-b86b-6171963a8676",
+      "genero": "Banda"
+    },
+    {
+      "name": "Morenaza",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F22%20MORENAZA.mp3?alt=media&token=5d43e6b7-ac5e-492a-ab0b-5cb51ff323ed",
+      "genero": "Banda"
+    },
+    {
+      "name": "Se lo dejo a dios",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F23%20SE%20LO%20DEJO%20A%20DIOS.mp3?alt=media&token=39ec47c4-52da-43d2-bb65-ff3e7fd9b298",
+      "genero": "Banda"
+    },
+    {
+      "name": "Esta tristesa mia",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F24%20ESTA%20TRISTEZA%20MIA.mp3?alt=media&token=d090fe0d-3612-40c5-9eb3-9ba09c2099cc",
+      "genero": "Banda"
+    },
+    {
+      "name": "Usted",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F25%20USTED.mp3?alt=media&token=818ee3f7-762b-4ce1-b31d-ae7b0a1501ad",
+      "genero": "Banda"
+    },
+    {
+      "name": "Que te costaba decirmelo",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F26%20QUE%20TE%20COSTABA%20DECIRMELO.mp3?alt=media&token=3d0e37a1-f268-41c5-89c2-17de01311761",
+      "genero": "Banda"
+    },
+    {
+      "name": "Que te costaba decirmelo",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F26%20QUE%20TE%20COSTABA%20DECIRMELO.mp3?alt=media&token=3d0e37a1-f268-41c5-89c2-17de01311761",
+      "genero": "Banda"
+    },
+    {
+      "name": "Ella",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F27%20ELLA.mp3?alt=media&token=eebec199-91cc-4a1a-aaec-8fe2e589177d",
+      "genero": "Banda"
+    },
+    {
+      "name": "Jineteando",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F28%20JINETEANDO.mp3?alt=media&token=11043097-5f36-4bda-b823-9e15cbe8acbc",
+      "genero": "Banda"
+    },
+    {
+      "name": "Te lo debo a ti",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F29%20TE%20LO%20DEBO%20A%20TI.mp3?alt=media&token=ad76614e-1e34-4912-9a90-b895937508b2",
+      "genero": "Banda"
+    },
+    {
+      "name": "El pebeyo",
+      "artista": "Banda Machos",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda-machos.png?alt=media&token=2bc7dd0c-c43d-491a-9853-126c147e1fff",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20Machos%2F30%20EL%20PLEBEYO.mp3?alt=media&token=432ea71a-e773-427a-ba58-7c160a60f8f1",
+      "genero": "Banda"
+    },
+    {
+      "name": "Mujer mujer",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F01%20MUJER%20MUJER.mp3?alt=media&token=80d4f46f-ff62-48ba-9a59-5cbeb2596a81",
+      "genero": "Banda"
+    },
+    {
+      "name": "Yo te daria mi vida",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F02%20YO%20TE%20DARIA%20MI%20VIDA.mp3?alt=media&token=6600d273-25db-41c7-8fb5-5c2ad7ba5c18",
+      "genero": "Banda"
+    },
+    {
+      "name": "Dime que me quieres",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F03%20DIME%20QUE%20ME%20QUIERES.mp3?alt=media&token=5306d570-dfdd-4a46-bd46-0a3a77f8c762",
+      "genero": "Banda"
+    },
+    {
+      "name": "Como pudiste",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F04%20COMO%20PUDISTE.mp3?alt=media&token=9f9b0868-c243-4e4d-8b46-fcea5f71567c",
+      "genero": "Banda"
+    },
+    {
+      "name": "Pena tras pena",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F05%20PENA%20TRAS%20PENA.mp3?alt=media&token=8c1169b1-6557-4635-9936-8d6b81476dd4",
+      "genero": "Banda"
+    },
+    {
+      "name": "Te ofrezco un corazon",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F06%20TE%20OFREZCO%20UN%20CORAZON.mp3?alt=media&token=ae241fc9-5db7-4b61-9641-faee0e4db924",
+      "genero": "Banda"
+    },
+    {
+      "name": "Y llegaste tu",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F07%20Y%20LLEGASTE%20TU.mp3?alt=media&token=dfc676a8-10a2-4dbc-82d5-346462dc2922",
+      "genero": "Banda"
+    },
+    {
+      "name": "Costrumbres",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F08%20COSTUMBRES.mp3?alt=media&token=ab34311d-cefc-47ba-98d3-d7d8e8169272",
+      "genero": "Banda"
+    },
+    {
+      "name": "Si quieres",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F09%20SI%20QUIERES.mp3?alt=media&token=aec10232-75a5-4cc7-8f9a-c5dc7a3d23f0",
+      "genero": "Banda"
+    },
+    {
+      "name": "Que solo estoy sin ti",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F10%20QUE%20SOLO%20ESTOY%20SIN%20TI.mp3?alt=media&token=6a2ca9c4-621f-4114-861d-a6dac4ad7911",
+      "genero": "Banda"
+    },
+    {
+      "name": "La miel de su saliva",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F11%20LA%20MIEL%20DE%20SU%20SALIVA.mp3?alt=media&token=09d553c3-5b37-4af1-890a-db8d917914a9",
+      "genero": "Banda"
+    },
+    {
+      "name": "Como el primer dia",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F12%20COMO%20EL%20PRIMER%20DIA.mp3?alt=media&token=e5a3e0bf-5d78-43b7-9b21-10aace5f1cd5",
+      "genero": "Banda"
+    },
+    {
+      "name": "Para que me hechas al mundo",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F13%20PARA%20QUE%20ME%20ECHASTE%20AL%20MUNDO.mp3?alt=media&token=c4e0fe83-ec37-4ee1-a15b-e51991dac939",
+      "genero": "Banda"
+    },
+    {
+      "name": "Inevitable",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F14%20INEVITABLE.mp3?alt=media&token=cd3d5e1f-510b-42eb-8380-7af43502d989",
+      "genero": "Banda"
+    },
+    {
+      "name": "Inevitable",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F14%20INEVITABLE.mp3?alt=media&token=cd3d5e1f-510b-42eb-8380-7af43502d989",
+      "genero": "Banda"
+    },
+    {
+      "name": "Si no es contigo",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F15%20SI%20NO%20ES%20CONTIGO.mp3?alt=media&token=4d787b53-7137-4a65-92d9-da0febce49cc",
+      "genero": "Banda"
+    },
+    {
+      "name": "Mi vicio mas grande",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F16%20MI%20VICIO%20MAS%20GRANDE.mp3?alt=media&token=654a257b-fbf5-4689-9674-3f6162416888",
+      "genero": "Banda"
+    },
+    {
+      "name": "Vas a llorar por mi",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F17%20VAS%20A%20LLORAR%20POR%20MI.mp3?alt=media&token=7672481e-374f-4d64-bddf-1a504b8cdabb",
+      "genero": "Banda"
+    },
+    {
+      "name": "Consecuencias de mis actos",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F18%20CONSECUENCIA%20DE%20MIS%20ACTOS.mp3?alt=media&token=b987b302-80b5-4078-9072-eeef3f0a09a8",
+      "genero": "Banda"
+    },
+    {
+      "name": "Somos ajenos",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F19%20SOMOS%20AJENOS.mp3?alt=media&token=beeaf9fc-1cb8-41c6-9736-237c05ae86b6",
+      "genero": "Banda"
+    },
+    {
+      "name": "Lamejor de todas",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F20%20LA%20MEJOR%20DE%20TODAS.mp3?alt=media&token=2f25b1ce-de45-4376-a018-c2468e9fb4f2",
+      "genero": "Banda"
+    },
+    {
+      "name": "Todo tuyo",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F21%20TODO%20TUYO.mp3?alt=media&token=71aab2ca-09e0-45cf-a39e-c4aa60e4675c",
+      "genero": "Banda"
+    },
+    {
+      "name": "Me gusta todo de ti",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F22%20ME%20GUSTA%20TODO%20DE%20TI.mp3?alt=media&token=13a14294-c3a5-4a3d-a07f-e01c2c51d594",
+      "genero": "Banda"
+    },
+    {
+      "name": "Te presumo",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F23%20TE%20PRESUMO.mp3?alt=media&token=9910481b-ab8c-418f-a4ed-ee5b17de7252",
+      "genero": "Banda"
+    },
+    {
+      "name": "Entonces que somos",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F24%20ENTONCES%20QUE%20SOMOS.mp3?alt=media&token=d55c423b-f6bf-4917-86fd-f2852736b14e",
+      "genero": "Banda"
+    },
+    {
+      "name": "Sin respiracion",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F25%20SIN%20RESPIRACION.mp3?alt=media&token=1a17b9af-4883-4b1a-b5c2-6703e2a16fcf",
+      "genero": "Banda"
+    },
+    {
+      "name": "Deja",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F26%20DEJA.mp3?alt=media&token=4b677c15-c974-4ce4-8c97-09be19480903",
+      "genero": "Banda"
+    },
+    {
+      "name": "Lo mejor de mi vida",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F27%20LO%20MEJOR%20DE%20MI%20VIDA.mp3?alt=media&token=91184128-0992-4094-acd2-db93e03228c6",
+      "genero": "Banda"
+    },
+    {
+      "name": "Yo se que te acordaras",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F28%20YO%20SE%20QUE%20TE%20ACORDARAS.mp3?alt=media&token=5ace0d69-a283-4243-baf9-e073551f8ce0",
+      "genero": "Banda"
+    },
+    {
+      "name": "Homenaje a un principe",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F29%20HOMENAJE%20A%20UN%20PRINCIPE.mp3?alt=media&token=aefebd1d-57b6-4098-b5c8-583848b0e2fa",
+      "genero": "Banda"
+    },
+    {
+      "name": "Sin ver atras",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2F30%20SIN%20VER%20ATRAS.mp3?alt=media&token=c848b470-6b60-4e56-aef8-bda9cc9b9eed",
+      "genero": "Banda"
+    },
+    {
+      "name": "Entierrenme con la banda",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2FBanda%20%20el%20Recodo%20Entierrenme%20con%20la%20Banda.mp3?alt=media&token=52074f84-2972-4595-bc7d-baa2d2fe1b13",
+      "genero": "Banda"
+    },
+    {
+      "name": "Dime que me quieres",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2FBanda%20El%20Recodo%20-%20Dime%20Que%20Me%20Quieres%20Video%20Oficial.mp3?alt=media&token=79560111-f90a-4417-9cc9-83e422d36bce",
+      "genero": "Banda"
+    },
+    {
+      "name": "El sauce y la palma",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2FBanda%20El%20Recodo%20-%20El%20Sauce%20Y%20La%20Palma.mp3?alt=media&token=cb37a1fb-d849-419b-b70a-47a5b6177419",
+      "genero": "Banda"
+    },
+    {
+      "name": "La cheyenne del año",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2FBanda%20El%20Recodo%20-%20La%20Cheyenne%20Del%20Ao%20-%20Con%20Epicenter%20by%20Enique.mp3?alt=media&token=86129541-e588-4bc8-bec9-9f21d348c0e8",
+      "genero": "Banda"
+    },
+    {
+      "name": "La gitanilla",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2FBanda%20El%20Recodo%20-%20La%20Gitanilla.mp3?alt=media&token=b835ae67-8351-4ff0-9a13-1c94d4c9bf78",
+      "genero": "Banda"
+    },
+    {
+      "name": "Que te ruegue quien te quiera",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2FBanda%20El%20Recodo%20-%20Que%20Te%20Ruegue%20Quien%20Te%20Quiera%20Video%20Oficial.mp3?alt=media&token=097cdd3e-63f3-4517-8dd7-514b309d9056",
+      "genero": "Banda"
+    },
+    {
+      "name": "Aca entre nos",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2FBanda%20El%20Recodo%20De%20Cruz%20Lizrraga%20-%20Ac%20Entre%20Nos%20Audio.mp3?alt=media&token=50a6b7ab-7773-461d-b721-9571ffca3da0",
+      "genero": "Banda"
+    },
+    {
+      "name": "De ti me enemore",
+      "artista": "Banda el recodo",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fbanda_el_recodo.png?alt=media&token=690cee8b-53d6-41cc-8d86-7586bed22c5a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FBanda%20el%20recodo%2FBanda%20El%20Recodo%20De%20Cruz%20Lizrraga%20-%20De%20Ti%20Me%20Enamore.mp3?alt=media&token=66a15207-3843-416c-a642-8cfabeeb99bb",
+      "genero": "Banda"
     }
+
   ],
   "notificacion": [
     {
