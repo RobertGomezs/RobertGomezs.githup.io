@@ -1371,9 +1371,205 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Ftrakalosa.jpg?alt=media&token=e6cc15ef-b167-468f-91b4-bc1501c5fe46",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FLa%20trakalosa%2F031%20TERRENO%20LIMPIO%20feat.%20Banda%20Tierr.mp3?alt=media&token=6221da3a-7a8a-4467-89c0-6cff25160197",
       "genero": "Banda"
+    },
+    {
+      "name": "Muchachita de ojos tristes",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F01%20MUCHACHITA%20DE%20OJOS%20TRISTES.mp3?alt=media&token=2ccfd35a-c2bc-42f7-9bad-c30aae0f21ad",
+      "genero": "Regional"
+    },
+    {
+      "name": "Millonario de Amor",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F02%20MILLONARIO%20DE%20AMOR.mp3?alt=media&token=4258e3af-2340-4528-989d-65ed946d8936",
+      "genero": "Regional"
+    },
+    {
+      "name": "Dueño de ti",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F03%20DUE%C3%91O%20DE%20TI.mp3?alt=media&token=a8e2f9b5-415d-4455-8f8c-76973279b56a",
+      "genero": "Regional"
+    },
+    {
+      "name": "La maestra",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F04%20LA%20MAESTRA.mp3?alt=media&token=45864b05-198f-47d1-a38c-9838222eee17",
+      "genero": "Regional"
+    },
+    {
+      "name": "Tu",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F05%20TU.mp3?alt=media&token=be4ed3df-7548-4ef0-850b-7e140a5cf352",
+      "genero": "Regional"
+    },
+    {
+      "name": "Para amarte",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F06%20PARA%20AMARTE.mp3?alt=media&token=cc5fe820-448c-4bc8-80c2-682e9a7843e2",
+      "genero": "Regional"
+    },
+    {
+      "name": "Me vas a doler",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F07%20ME%20VAS%20A%20DOLER.mp3?alt=media&token=2acabe1c-d46b-467f-bd68-0d944a38d55c",
+      "genero": "Regional"
+    },
+    {
+      "name": "Soy su amante y que",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F08%20SOY%20SU%20AMANTE%20Y%20QUE.mp3?alt=media&token=1b357459-6c9e-4d2b-b1c8-6230254ee187",
+      "genero": "Regional"
+    },
+    {
+      "name": "Mientras me llega la hora",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F09%20MIENTRAS%20ME%20LLEGA%20LA%20AHORA.mp3?alt=media&token=ab900d37-1e1c-463b-8ade-8d98ba12e708",
+      "genero": "Regional"
+    },
+    {
+      "name": "La numero 20",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F11%20LA%20NUMERO%2020.mp3?alt=media&token=d4b5bd2b-6157-4d84-8f83-188bf9434ccd",
+      "genero": "Regional"
+    },
+    {
+      "name": "Mi buen amante",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F12%20MI%20BUEN%20AMANTE.mp3?alt=media&token=1d57475d-21fa-46cd-b206-8e617216e44e",
+      "genero": "Regional"
+    },
+    {
+      "name": "Quien es usted",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F13%20QUIEN%20ES%20USTED.mp3?alt=media&token=29cb2847-bc59-4453-b72b-742c955db903",
+      "genero": "Regional"
+    },
+    {
+      "name": "Cuando el sol salga al reves",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F14%20CUANDO%20EL%20SOL%20SALGA%20AL%20REVES.mp3?alt=media&token=1c5fae8d-887a-4481-9708-6dfa308db9c8",
+      "genero": "Regional"
+    },
+    {
+      "name": "Necesito Dueña",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F15%20NECESITO%20DUE%C3%91A.mp3?alt=media&token=c12e7af2-1f74-4fab-80cc-345ab95f797a",
+      "genero": "Regional"
+    },
+    {
+      "name": "Disculpeme usted",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F16%20DISCULPE%20USTED.mp3?alt=media&token=a1684afb-ab0c-4c75-9fa5-f82c181dd1cc",
+      "genero": "Regional"
+    },
+    {
+      "name": "Tu condena",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F17%20TU%20CONDENA.mp3?alt=media&token=4f9df673-8d92-4f73-ab6c-82b583a16660",
+      "genero": "Regional"
+    },
+    {
+      "name": "Cosas raras",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F18%20COSAS%20RARAS.mp3?alt=media&token=1798b545-78ef-4800-9015-f494602c9240",
+      "genero": "Regional"
+    },
+    {
+      "name": "Ambiciosa",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F19%20AMBICIOSA.mp3?alt=media&token=ba96c004-e7eb-46c5-9bd8-89ae48404f44",
+      "genero": "Regional"
+    },
+    {
+      "name": "El papel del diablo",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F20%20EL%20PAPA%20DEL%20DIABLO.mp3?alt=media&token=cd8c9c04-391c-4dfd-845e-4c8d4ecb008f",
+      "genero": "Regional"
+    },
+    {
+      "name": "Cosas del amor",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F21%20COSAS%20DEL%20AMOR.mp3?alt=media&token=2abfa9e3-6eeb-48c6-ba1c-72de00d30242",
+      "genero": "Regional"
+    },
+    {
+      "name": "Me gusta estar contigo",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F22%20ME%20GUSTA%20ESTAR%20CONTIGO.mp3?alt=media&token=0c601c51-9278-40f9-a8a5-f1bb1852709a",
+      "genero": "Regional"
+    },
+    {
+      "name": "Esa triste quitarra",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F23%20ESA%20TRISTE%20GUITARRA.mp3?alt=media&token=23beae64-d079-4ad6-9285-85ecbb91eeae",
+      "genero": "Regional"
+    },
+    {
+      "name": "Zapatos nuevos",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F24%20ZAPATOS%20NUEVOS.mp3?alt=media&token=e872ef9a-830e-4d18-87a7-8f7393d01809",
+      "genero": "Regional"
+    },
+    {
+      "name": "Me gusta tener de dos",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F25%20ME%20GUSTA%20TENER%20DE%20A%20DOS.mp3?alt=media&token=52e9326b-56b4-4260-9aa5-571dd645f638",
+      "genero": "Regional"
+    },
+    {
+      "name": "La mentada",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F26%20LA%20MENTADA.mp3?alt=media&token=e808c43b-205c-4047-a2ed-d6823bbe9e03",
+      "genero": "Regional"
+    },
+    {
+      "name": "Andamos borrachos todos",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F27%20ANDAMOS%20BORRACHOS%20TODOS.mp3?alt=media&token=b153efc5-9b50-4502-ab49-dc339aa18e31",
+      "genero": "Regional"
+    },
+    {
+      "name": "Tres figuras grandes",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F28%20TRES%20FIGURAS%20GRANDES.mp3?alt=media&token=196147ca-fee0-467c-9c95-8864a1a006b7",
+      "genero": "Regional"
+    },
+    {
+      "name": "El jefe de las plazas",
+      "artista": "Sergio vega",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F29%20EL%20JEFE%20DE%20LAS%20PLAZAS.mp3?alt=media&token=9ba568d0-c586-46d0-b571-ab6bbabb8813",
+      "genero": "Regional"
     }
-
-
+ 
+   
   ],
   "notificacion": [
     {
