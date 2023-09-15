@@ -1567,8 +1567,371 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2Fsegio_vega.jpg?alt=media&token=6dd1466d-2798-4bc1-81a6-6b7a2dc9b40a",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2FSergio%20vega%2F29%20EL%20JEFE%20DE%20LAS%20PLAZAS.mp3?alt=media&token=9ba568d0-c586-46d0-b571-ab6bbabb8813",
       "genero": "Regional"
+    },
+    {
+      "name": "A las once de la noche",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FA%20Las%20Once%20De%20La%20Noche.mp3?alt=media&token=a55dbb7b-307d-4335-a1b0-f41b312cf993",
+      "genero": "Regional"
+    },
+    {
+      "name": "Siete leguas tamboras",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FANTONIO%20AGUILAR%20-%20SIETE%20LEGUAS%20TAMBORA.mp3?alt=media&token=2175ed48-5912-46da-9b62-74a3be7b2a58",
+      "genero": "Regional"
+    },
+    {
+      "name": "La Martina",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FANTONIO%20AGUILAR-LA%20MARTINA.mp3?alt=media&token=19411a3a-786d-4de7-bc46-b4e7f7734f01",
+      "genero": "Regional"
+    },
+    {
+      "name": "Sonaron cuatro balazos",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FANTONIO%20AGUILAR-SONARON%20CUATRO%20BALAZOS.mp3?alt=media&token=75083f01-9226-4880-85ef-fe8b1f3d798a",
+      "genero": "Regional"
+    },
+    {
+      "name": "La recien casada",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20%20%20%20%20La%20%20Recien%20Casada.mp3?alt=media&token=af8eb160-f87a-4abf-9779-6bb82cc27dff",
+      "genero": "Regional"
+    },
+    {
+      "name": "Alta y delgadita",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20Alta%20y%20Delgadita.mp3?alt=media&token=31bb81b9-7a11-4286-af55-1d63e4e07cc7",
+      "genero": "Regional"
+    },
+    {
+      "name": "Ay chavela",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20Ay%20Chabela%20%20Rancherisimo%20Vol%202.mp3?alt=media&token=064d2909-5134-45c8-ae09-95bb7ec30073",
+      "genero": "Regional"
+    },
+    {
+      "name": "Carta jugada",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20Carta%20jugada.mp3?alt=media&token=638b7139-1819-4b3d-aeb6-5db4c6e710e6",
+      "genero": "Regional"
+    },
+    {
+      "name": "De puntitas",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20De%20puntitas.mp3?alt=media&token=cecf359a-e7db-4c71-8c4b-7424f921e5ef",
+      "genero": "Regional"
+    },
+    {
+      "name": "Debajo de los Laureles",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20Debajo%20de%20los%20Laureles.mp3?alt=media&token=d3d9eeb7-c535-4841-af43-5995674633f4",
+      "genero": "Regional"
+    },
+    {
+      "name": "Hechale un quito al piano",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20Echale%20un%20Quinto%20al%20Piano.mp3?alt=media&token=3d47d106-bdec-4c09-9a6e-7b3d3675a972",
+      "genero": "Regional"
+    },
+    {
+      "name": "El hijo desobediente",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20El%20Hijo%20Desobediente.mp3?alt=media&token=05b2f8b2-18f3-4e97-a4c8-ae2535604192",
+      "genero": "Regional"
+    },
+    {
+      "name": "El golpe traidor",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20El%20golpe%20traidor.mp3?alt=media&token=9ccafc7a-7a12-495a-abc1-79a4ca2917fb",
+      "genero": "Regional"
+    },
+    {
+      "name": "Mil cantinas",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20Mil%20cantinas.mp3?alt=media&token=06203cce-13f1-4907-a1d6-1800d3cf5a4b",
+      "genero": "Regional"
+    },
+    {
+      "name": "Morenita labios rojos",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20Morenita%20labios%20rojos.mp3?alt=media&token=149b2f6a-3b93-477e-b281-c733cbcb2803",
+      "genero": "Regional"
+    },
+    {
+      "name": "No vuelvo a amar",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20No%20vuelvo%20a%20amar%20Con%20Banda.mp3?alt=media&token=5257e9d5-67f1-4141-a536-eff597e1dce7",
+      "genero": "Regional"
+    },
+    {
+      "name": "Que bonito es el amor",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20Que%20Bonito%20es%20el%20Amor.mp3?alt=media&token=aabccc22-4ff1-4faf-beb2-e62301346284",
+      "genero": "Regional"
+    },
+    {
+      "name": "Que falta me hace mi padre",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20Que%20Falta%20Me%20Hace%20Mi%20Padre.mp3?alt=media&token=beead50f-f4a4-4beb-9c08-2a52b5783110",
+      "genero": "Regional"
+    },
+    {
+      "name": "Tristes recuerdos",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20Tristes%20Recuerdos%20Con%20Mariachi.mp3?alt=media&token=372c75f2-7666-4da3-96de-a926de094d4a",
+      "genero": "Regional"
+    },
+    {
+      "name": "Un puño de tierra",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20Un%20Puo%20De%20Tierra.mp3?alt=media&token=58b46893-e78d-45ab-911b-2904936f1648",
+      "genero": "Regional"
+    },
+    {
+      "name": "Anillo grabado",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20anillo%20grabado.mp3?alt=media&token=6a0f7120-4fb3-4ae8-92f5-5eae67ba33ea",
+      "genero": "Regional"
+    },
+    {
+      "name": "Como un perro",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20como%20un%20perro.mp3?alt=media&token=95b2dfde-b1d1-4734-bf32-1bfaf6d94b75",
+      "genero": "Regional"
+    },
+    {
+      "name": "Palomas que andaban volando",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20-%20palomas%20que%20andan%20volando.mp3?alt=media&token=6774d432-48da-4bdc-ba13-aca93b17f605",
+      "genero": "Regional"
+    },
+    {
+      "name": "La rubia y la morena",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20La%20rubia%20y%20la%20morena.mp3?alt=media&token=2a8d8f7e-77fb-4042-b9de-ef68ed42f26c",
+      "genero": "Regional"
+    },
+    {
+      "name": "Ya no me vegas a llorar",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20Ya%20no%20me%20vengas%20llorar.mp3?alt=media&token=edfd258a-3205-4384-841e-23cf29ecf7c0",
+      "genero": "Regional"
+    },
+    {
+      "name": "Corrido de lucio vazques",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar%20corrido%20de%20Lucio%20Vzquez.mp3?alt=media&token=bb8cc483-4d05-488b-b58d-fb1e88f8da96",
+      "genero": "Regional"
+    },
+    {
+      "name": "Pa todo el año",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar-Pa%20todo%20el%20ano.mp3?alt=media&token=122cde4f-4c3f-42a7-84bf-a1cc89a0031e",
+      "genero": "Regional"
+    },
+    {
+      "name": "Señorita cantinera",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20Aguilar-Seorita%20Cantinera.mp3?alt=media&token=d72da1e5-8676-49dd-9bf5-0d87338ab47a",
+      "genero": "Regional"
+    },
+    {
+      "name": "El panza verde",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20aguilar-%20el%20panza%20verde.mp3?alt=media&token=636428da-b065-4183-81f9-fd6ac0fc1990",
+      "genero": "Regional"
+    },
+    {
+      "name": "El donde andara",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20aguilar-a%20donde%20andara.mp3?alt=media&token=f0ee80a1-1aba-4954-b408-de5ac5418f35",
+      "genero": "Regional"
+    },
+    {
+      "name": "El hijo del albañil",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20aguilar-el%20hijo%20del%20albail.mp3?alt=media&token=d2bc2f29-fe85-48ee-b834-21785f846571",
+      "genero": "Regional"
+    },
+    {
+      "name": "Es imposible",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20aguilar-es%20imposible.mp3?alt=media&token=2832a38c-d0ab-4100-92e8-2d12acbbdaff",
+      "genero": "Regional"
+    },
+    {
+      "name": "Hasta a qui te trajo el rio",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20aguilar-hasta%20aqui%20te%20trago%20el%20rio.mp3?alt=media&token=71667dee-d439-4215-a3c7-046b1f4ed436",
+      "genero": "Regional"
+    },
+    {
+      "name": "Juntito a la virgen",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20aguilar-juntito%20a%20la%20virgen.mp3?alt=media&token=bfd47ba5-efe1-41e5-bbf9-efe84ce02185",
+      "genero": "Regional"
+    },
+    {
+      "name": "Las gaviotas",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20aguilar-las%20gaviotas.mp3?alt=media&token=8a44bf18-25c0-4300-af05-56233b1401f7",
+      "genero": "Regional"
+    },
+    {
+      "name": "Mira luisa",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20aguilar-mira%20luisa.mp3?alt=media&token=e88c648f-dab4-47bb-a975-67600054adad",
+      "genero": "Regional"
+    },
+    {
+      "name": "Pero quererte jamas",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20aguilar-pero%20quererte%20jamastambora.mp3?alt=media&token=e44bed33-d4b4-4a4a-a5e5-afdd5d38d0ba",
+      "genero": "Regional"
+    },
+    {
+      "name": "Que bonito amor",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20aguilar-que%20bonito%20amor.mp3?alt=media&token=d04255f3-c47f-423c-aa9a-8672de6b6fc6",
+      "genero": "Regional"
+    },
+    {
+      "name": "Si no me quieres no me martirices",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FAntonio%20aguilar-si%20no%20me%20quieres%20no%20me%20martirices.mp3?alt=media&token=91cfe436-7fee-418d-8823-400ce4c537ea",
+      "genero": "Regional"
+    },
+    {
+      "name": "Busca otro amor",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FBusca%20Otro%20Amor.mp3?alt=media&token=ae8cb0a3-bc0a-47df-9609-a7b2bb046de8",
+      "genero": "Regional"
+    },
+    {
+      "name": "Cuatro milpas",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FCuatro%20Milpas.mp3?alt=media&token=2dbb3580-4b83-4016-b8b6-d120c3dd87e6",
+      "genero": "Regional"
+    },
+    {
+      "name": "De mañana en ocho dias",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FDe%20Maana%20En%20Ocho%20Das.mp3?alt=media&token=0f7dfd9f-5983-4061-b6c7-4972601283fa",
+      "genero": "Regional"
+    },
+    {
+      "name": "El chivo",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FEl%20Chivo.mp3?alt=media&token=1d67fa5e-a22f-4ba3-bf2c-052ee2822cf6",
+      "genero": "Regional"
+    },
+    {
+      "name": "El dia de san juan",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FEl%20Dia%20De%20San%20Juan.mp3?alt=media&token=e4a7535e-6516-45f4-8d47-f25232dab8e0",
+      "genero": "Regional"
+    },
+    {
+      "name": "Lamberto quintero",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FLamberto%20Quintero.mp3?alt=media&token=e53061be-e8fa-493a-bd05-b63f56727e85",
+      "genero": "Regional"
+    },
+    {
+      "name": "Una mujer casada",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FPor%20Una%20Mujer%20Casada.mp3?alt=media&token=cdb55860-6a6a-4a35-b5f7-105fa1804c0d",
+      "genero": "Regional"
+    },
+    {
+      "name": "Quiero que sepas",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FQUIERO%20QUE%20SEPAS%20FLOR%20SILVESTRE%20Y%20ANTONIO%20AGUILAR%20CON%20TAMBORA.mp3?alt=media&token=b7bcb66c-b753-4283-bf66-92b99da2f3c1",
+      "genero": "Regional"
+    },
+    {
+      "name": "Que me entierren con la banda",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FQue%20Me%20Entierren%20Con%20La%20Banda.mp3?alt=media&token=b09240d3-eb37-4fcc-b69d-b2e32b43e99d",
+      "genero": "Regional"
+    },
+    {
+      "name": "Que si te quise",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FQue%20Se%20Te%20Quite%20Ese%20Orgullo%204%20Meses.mp3?alt=media&token=2e8b54e1-051a-46bc-96e1-8017085137bd",
+      "genero": "Regional"
+    },
+    {
+      "name": "Y andale",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2FY%20ndale.mp3?alt=media&token=4b1c504b-c907-4657-8485-56eae8b8988f",
+      "genero": "Regional"
+    },
+    {
+      "name": "El corrido del caballo blanco",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2Fantonio%20aguilar%20-%20el%20corrido%20del%20caballo%20blanco.mp3?alt=media&token=6dcfac63-90e1-4f5e-a20e-18ffbb008fc8",
+      "genero": "Regional"
+    },
+    {
+      "name": "Cuatro meses",
+      "artista": "Antonio Aguilar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FAntonio%20aguilar.jpg?alt=media&token=662b71f9-d0e9-41c0-bf5d-dd220129dfda",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FAntonio%20Aguilar%2Fantonio%20aguilar%20cuatro%20meseswmv.mp3?alt=media&token=430608ca-76a9-4442-a097-5f59f142a14c",
+      "genero": "Regional"
     }
- 
    
   ],
   "notificacion": [
