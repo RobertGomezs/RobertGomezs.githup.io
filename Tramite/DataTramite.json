@@ -28,6 +28,13 @@
       "video": "",
       "creditos": ""
     }
+  ],
+  "comunicados": [
+    {
+      "nombre": "ACTA DE NACIMIENTO",
+      "descripcion": "Cunsulta o descarga",
+      "url": "https://www.gob.mx/ActaNacimiento/"
+    }
   ]
-  
+
 }
