@@ -5,28 +5,28 @@
       "descripcion": "Cunsulta o descarga",
       "url": "https://www.gob.mx/ActaNacimiento/",
       "video": "",
-      "Creditos": ""
+      "creditos": ""
     },
     {
       "nombre": "CURP",
       "descripcion": "Cunsulta o descarga",
       "url": "https://www.gob.mx/curp/",
       "video": "",
-      "Creditos": ""
+      "creditos": ""
     },
     {
       "nombre": "RECIBO DE LUZ",
       "descripcion": "Cunsulta o descarga",
       "url": "https://app.cfe.mx/aplicaciones/CCFE/SolicitudesCFE/Solicitudes/ConsultaTuReciboLuzGmx.aspx",
       "video": "",
-      "Creditos": ""
+      "creditos": ""
     },
     {
       "nombre": "CEDULA PROFESIONAL",
       "descripcion": "Trámite o duplicado",
       "url": "https://www.gob.mx/cedulaprofesional",
       "video": "",
-      "Creditos": ""
+      "creditos": ""
     }
   ]
   
