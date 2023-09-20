@@ -1,0 +1,33 @@
+{
+  "Data": [
+    {
+      "nombre": "ACTA DE NACIMIENTO",
+      "descripcion": "Cunsulta o descarga",
+      "url": "https://www.gob.mx/ActaNacimiento/",
+      "video": "",
+      "Creditos": ""
+    },
+    {
+      "nombre": "CURP",
+      "descripcion": "Cunsulta o descarga",
+      "url": "https://www.gob.mx/curp/",
+      "video": "",
+      "Creditos": ""
+    },
+    {
+      "nombre": "RECIBO DE LUZ",
+      "descripcion": "Cunsulta o descarga",
+      "url": "https://app.cfe.mx/aplicaciones/CCFE/SolicitudesCFE/Solicitudes/ConsultaTuReciboLuzGmx.aspx",
+      "video": "",
+      "Creditos": ""
+    },
+    {
+      "nombre": "CEDULA PROFESIONAL",
+      "descripcion": "Trámite o duplicado",
+      "url": "https://www.gob.mx/cedulaprofesional",
+      "video": "",
+      "Creditos": ""
+    }
+  ]
+  
+}
