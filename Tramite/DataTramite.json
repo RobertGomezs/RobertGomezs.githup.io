@@ -4,29 +4,29 @@
       "nombre": "ACTA DE NACIMIENTO",
       "descripcion": "Cunsulta o descarga",
       "url": "https://www.gob.mx/ActaNacimiento/",
-      "video": "",
-      "creditos": ""
+      "video": "https://firebasestorage.googleapis.com/v0/b/tramites-9f3c8.appspot.com/o/acta.mp4?alt=media&token=50b29728-c0cc-459e-86a2-9e366f081ec6",
+      "creditos": "El Heraldode Mexico"
     },
     {
       "nombre": "CURP",
       "descripcion": "Cunsulta o descarga",
       "url": "https://www.gob.mx/curp/",
-      "video": "",
-      "creditos": ""
+      "video": "https://firebasestorage.googleapis.com/v0/b/tramites-9f3c8.appspot.com/o/curp.mp4?alt=media&token=46e5cfe9-9e58-4ebc-a635-1ab121a4c27b",
+      "creditos": "DBF CORPORATIVO EMPRESARIAL"
     },
     {
       "nombre": "RECIBO DE LUZ",
       "descripcion": "Cunsulta o descarga",
       "url": "https://app.cfe.mx/aplicaciones/CCFE/SolicitudesCFE/Solicitudes/ConsultaTuReciboLuzGmx.aspx",
-      "video": "",
-      "creditos": ""
+      "video": "https://firebasestorage.googleapis.com/v0/b/tramites-9f3c8.appspot.com/o/Recibo%20de%20luz.mp4?alt=media&token=148b2cd3-99a1-47bf-8c00-9017dade923b",
+      "creditos": "Tochomorocho"
     },
     {
       "nombre": "CEDULA PROFESIONAL",
       "descripcion": "Tramite o duplicado",
       "url": "https://www.gob.mx/cedulaprofesional",
-      "video": "",
-      "creditos": ""
+      "video": "https://firebasestorage.googleapis.com/v0/b/tramites-9f3c8.appspot.com/o/cedula.mp4?alt=media&token=07fc9552-cc1b-42d3-ab60-bbc68aae73e5",
+      "creditos": "El Heraldode Mexico"
     }
   ],
   "comunicados": [
