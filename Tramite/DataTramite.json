@@ -48,6 +48,13 @@
       "url": "https://www.sat.gob.mx/home",
       "video": "https://firebasestorage.googleapis.com/v0/b/tramites-9f3c8.appspot.com/o/cita%20sat%20%E2%80%90%20Hecho%20con%20Clipchamp.mp4?alt=media&token=477911fe-b7f8-47d6-952c-41681412cbe6&_gl=1*1ppdgvg*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5NjI1NDA1NS4yOS4xLjE2OTYyNTU1NDcuMzAuMC4w",
       "creditos": "Contablemente y mas"
+    },
+    {
+      "nombre": "SEMANAS COTIZADAS IMSS",
+      "descripcion": "Consulta",
+      "url": "https://serviciosdigitales.imss.gob.mx/semanascotizadas-web/usuarios/IngresoAsegurado",
+      "video": "https://firebasestorage.googleapis.com/v0/b/tramites-9f3c8.appspot.com/o/SEMANAS%20COTIZADAS%20%E2%80%90%20Hecho%20con%20Clipchamp.mp4?alt=media&token=5cacbf64-cd48-4e60-9cf1-79f5ce6b59d2&_gl=1*8tg8io*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5NjI1NDA1NS4yOS4xLjE2OTYyNTgxODkuNDguMC4w",
+      "creditos": "Instituto Mexicano del Seguro Social"
     }
 
   ],
