@@ -1,0 +1,247 @@
+[
+  {
+    "pregunta": "Tiene hojas pero no es un libro, tiene una corona pero no es un rey, ¿qué es?",
+    "respuesta": "El árbol",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_arbol.jpg"
+  },
+  {
+    "pregunta": "Vuelo de noche, duermo de día, no soy un pájaro, pero en el aire estoy. ¿Qué soy?",
+    "respuesta": "Murciélago",
+    "tipo": "Animal",
+    "imagen": "url_imagen_murcielago.jpg"
+  },
+  {
+    "pregunta": "Soy un número entre 1 y 10, si me sumas con 4 obtienes 9. ¿Qué número soy?",
+    "respuesta": "Cinco",
+    "tipo": "Número"
+  },
+  {
+    "pregunta": "Tiene cuatro patas y maúlla, ¿qué es?",
+    "respuesta": "Un gato",
+    "tipo": "Animal",
+    "imagen": "url_imagen_gato.jpg"
+  },
+  {
+    "pregunta": "Se utiliza para medir el tiempo, pero no es un reloj. ¿Qué es?",
+    "respuesta": "Un reloj de arena",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_reloj_arena.jpg"
+  },
+  {
+    "pregunta": "Tiene dientes pero no puede morder, ¿qué es?",
+    "respuesta": "Un peine",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_peine.jpg"
+  },
+  {
+    "pregunta": "Soy redondo y siempre avanzo, pero no soy una pelota. ¿Qué soy?",
+    "respuesta": "El Sol",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_sol.jpg"
+  },
+  {
+    "pregunta": "Tengo un corazón que no late, ¿qué soy?",
+    "respuesta": "Una alcachofa",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_alcachofa.jpg"
+  },
+  {
+    "pregunta": "Soy un lugar donde se guardan libros, ¿qué soy?",
+    "respuesta": "Biblioteca",
+    "tipo": "Lugar"
+  },
+  {
+    "pregunta": "Soy un animal que es conocido por ser lento y llevar mi casa en mi espalda, ¿quién soy?",
+    "respuesta": "Caracol",
+    "tipo": "Animal",
+    "imagen": "url_imagen_caracol.jpg"
+  },
+  {
+    "pregunta": "Soy un número que está justo antes del nueve, ¿cuál es?",
+    "respuesta": "El ocho",
+    "tipo": "Número"
+  },
+  {
+    "pregunta": "Soy un ave que canta hermosamente en la mañana, ¿quién soy?",
+    "respuesta": "El ruiseñor",
+    "tipo": "Animal",
+    "imagen": "url_imagen_ruisenor.jpg"
+  },
+  {
+    "pregunta": "Soy una fruta que es amarilla por fuera y blanca por dentro, ¿qué soy?",
+    "respuesta": "El plátano",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_platano.jpg"
+  },
+  {
+    "pregunta": "Tiene ramas, pero no soy un árbol. ¿Qué soy?",
+    "respuesta": "Una empresa",
+    "tipo": "Objeto"
+  },
+  {
+    "pregunta": "Soy un lugar donde las personas van a nadar. ¿Qué soy?",
+    "respuesta": "Piscina",
+    "tipo": "Lugar"
+  },
+  {
+    "pregunta": "Tengo patas pero no puedo caminar, ¿qué soy?",
+    "respuesta": "Mesa",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_mesa.jpg"
+  },
+  {
+    "pregunta": "Tengo agujas pero no coso, ¿qué soy?",
+    "respuesta": "Un pino",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_pino.jpg"
+  },
+  {
+    "pregunta": "Soy una fruta que es roja por fuera y tiene muchas semillas, ¿qué soy?",
+    "respuesta": "La fresa",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_fresa.jpg"
+  },
+  {
+    "pregunta": "Soy un lugar donde se guardan coches, ¿qué soy?",
+    "respuesta": "Garaje",
+    "tipo": "Lugar"
+  },
+  {
+    "pregunta": "Soy un objeto que se usa para escribir, ¿qué soy?",
+    "respuesta": "Lápiz",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_lapiz.jpg"
+  },
+  {
+    "pregunta": "Vuelo en el cielo, soy de papel, y los niños me hacen volar. ¿Qué soy?",
+    "respuesta": "Cometa",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_cometa.jpg"
+  },
+  {
+    "pregunta": "Tengo patas y muevo la cola, soy amigo del hombre y no soy una mascota. ¿Qué soy?",
+    "respuesta": "Caballo",
+    "tipo": "Animal",
+    "imagen": "url_imagen_caballo.jpg"
+  },
+  {
+    "pregunta": "Soy un objeto que se usa para iluminar, pero no soy una lámpara. ¿Qué soy?",
+    "respuesta": "Vela",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_vela.jpg"
+  },
+  {
+    "pregunta": "Soy un lugar donde se cocinan deliciosas comidas, ¿qué soy?",
+    "respuesta": "Cocina",
+    "tipo": "Lugar"
+  },
+  {
+    "pregunta": "Tengo plumas y vuelo alto en el cielo, ¿qué soy?",
+    "respuesta": "Águila",
+    "tipo": "Animal",
+    "imagen": "url_imagen_aguila.jpg"
+  },
+  {
+    "pregunta": "Soy un número que sigue al siete, ¿cuál es?",
+    "respuesta": "El ocho",
+    "tipo": "Número"
+  },
+  {
+    "pregunta": "Tengo dientes pero no puedo morder, ¿qué soy?",
+    "respuesta": "Un peine",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_peine.jpg"
+  },
+  {
+    "pregunta": "Tengo un corazón que no late, ¿qué soy?",
+    "respuesta": "Una alcachofa",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_alcachofa.jpg"
+  },
+  {
+    "pregunta": "Soy redondo y siempre avanzo, pero no soy una pelota. ¿Qué soy?",
+    "respuesta": "El Sol",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_sol.jpg"
+  },
+  {
+    "pregunta": "Tengo hojas pero no soy un libro, ¿qué soy?",
+    "respuesta": "Árbol",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_arbol.jpg"
+  },
+  {
+    "pregunta": "Soy un lugar donde se guardan libros, ¿qué soy?",
+    "respuesta": "Biblioteca",
+    "tipo": "Lugar"
+  },
+  {
+    "pregunta": "Soy un lugar donde las personas van a nadar. ¿Qué soy?",
+    "respuesta": "Piscina",
+    "tipo": "Lugar"
+  },
+  {
+    "pregunta": "Tengo patas pero no puedo caminar, ¿qué soy?",
+    "respuesta": "Mesa",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_mesa.jpg"
+  },
+  {
+    "pregunta": "Tengo agujas pero no coso, ¿qué soy?",
+    "respuesta": "Un pino",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_pino.jpg"
+  },
+  {
+    "pregunta": "Soy una fruta que es roja por fuera y tiene muchas semillas, ¿qué soy?",
+    "respuesta": "La fresa",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_fresa.jpg"
+  },
+  {
+    "pregunta": "Soy un lugar donde se guardan coches, ¿qué soy?",
+    "respuesta": "Garaje",
+    "tipo": "Lugar"
+  },
+  {
+    "pregunta": "Soy un objeto que se usa para escribir, ¿qué soy?",
+    "respuesta": "Lápiz",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_lapiz.jpg"
+  },
+  {
+    "pregunta": "Vuelo en el cielo, soy de papel, y los niños me hacen volar. ¿Qué soy?",
+    "respuesta": "Cometa",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_cometa.jpg"
+  },
+  {
+    "pregunta": "Tengo patas y muevo la cola, soy amigo del hombre y no soy una mascota. ¿Qué soy?",
+    "respuesta": "Caballo",
+    "tipo": "Animal",
+    "imagen": "url_imagen_caballo.jpg"
+  },
+  {
+    "pregunta": "Soy un objeto que se usa para iluminar, pero no soy una lámpara. ¿Qué soy?",
+    "respuesta": "Vela",
+    "tipo": "Objeto",
+    "imagen": "url_imagen_vela.jpg"
+  },
+  {
+    "pregunta": "Soy un lugar donde se cocinan deliciosas comidas, ¿qué soy?",
+    "respuesta": "Cocina",
+    "tipo": "Lugar"
+  },
+  {
+    "pregunta": "Tengo plumas y vuelo alto en el cielo, ¿qué soy?",
+    "respuesta": "Águila",
+    "tipo": "Animal",
+    "imagen": "url_imagen_aguila.jpg"
+  },
+  {
+    "pregunta": "Soy un número que sigue al siete, ¿cuál es?",
+    "respuesta": "El ocho",
+    "tipo": "Número"
+  }
+]
