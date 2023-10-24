@@ -58,7 +58,7 @@
     "imagen": "url_imagen_caracol.jpg"
   },
   {
-    "pregunta": "Soy un numero que esta justo antes del nueve, cuál es?",
+    "pregunta": "Soy un numero que esta justo antes del nueve, cual es?",
     "respuesta": "El ocho",
     "tipo": "Numero"
   },
@@ -140,7 +140,7 @@
   {
     "pregunta": "Soy un numero que sigue al siete, cual es?",
     "respuesta": "El ocho",
-    "tipo": "Número"
+    "tipo": "Numero"
   },
   {
     "pregunta": "Tengo dientes pero no puedo morder, que soy?",
@@ -161,7 +161,7 @@
     "imagen": "url_imagen_sol.jpg"
   },
   {
-    "pregunta": "Tengo hojas pero no soy un libro, qué soy?",
+    "pregunta": "Tengo hojas pero no soy un libro, que soy?",
     "respuesta": "Arbol",
     "tipo": "Objeto",
     "imagen": "url_imagen_arbol.jpg"
