@@ -52,7 +52,7 @@
     "tipo": "Lugar"
   },
   {
-    "pregunta": "Soy un animal que es conocido por ser lento y llevar mi casa en mi espalda, ¿quién soy?",
+    "pregunta": "Soy un animal que es conocido por ser lento y llevar mi casa en mi espalda, ¿quien soy?",
     "respuesta": "Caracol",
     "tipo": "Animal",
     "imagen": "url_imagen_caracol.jpg"
