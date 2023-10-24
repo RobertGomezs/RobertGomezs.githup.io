@@ -63,12 +63,6 @@
     "tipo": "Numero"
   },
   {
-    "pregunta": "Soy un ave que canta hermosamente en la mañana, quien soy?",
-    "respuesta": "El ruiseñor",
-    "tipo": "Animal",
-    "imagen": "url_imagen_ruisenor.jpg"
-  },
-  {
     "pregunta": "Soy una fruta que es amarilla por fuera y blanca por dentro, que soy?",
     "respuesta": "El platano",
     "tipo": "Objeto",
@@ -112,12 +106,6 @@
     "respuesta": "Lapiz",
     "tipo": "Objeto",
     "imagen": "url_imagen_lapiz.jpg"
-  },
-  {
-    "pregunta": "Vuelo en el cielo, soy de papel, y los niños me hacen volar. Que soy?",
-    "respuesta": "Cometa",
-    "tipo": "Objeto",
-    "imagen": "url_imagen_cometa.jpg"
   },
   {
     "pregunta": "Tengo patas y muevo la cola, soy amigo del hombre y no soy una mascota. Que soy?",
@@ -194,12 +182,6 @@
     "respuesta": "Lapiz",
     "tipo": "Objeto",
     "imagen": "url_imagen_lapiz.jpg"
-  },
-  {
-    "pregunta": "Vuelo en el cielo, soy de papel, y los niños me hacen volar. Que soy?",
-    "respuesta": "Cometa",
-    "tipo": "Objeto",
-    "imagen": "url_imagen_cometa.jpg"
   }
  
 ]
