@@ -14,7 +14,8 @@
   {
     "pregunta": "Soy un numero entre 1 y 10, si me sumas con 4 obtienes 9. Que numero soy?",
     "respuesta": "Cinco",
-    "tipo": "Numero"
+    "tipo": "Numero",
+    "imagen": "url_imagen_murcielago.jpg"
   },
   {
     "pregunta": "Tiene cuatro patas y maulla, que es?",
@@ -60,7 +61,8 @@
   {
     "pregunta": "Soy un numero que esta justo antes del nueve, cual es?",
     "respuesta": "El ocho",
-    "tipo": "Numero"
+    "tipo": "Numero",
+    "imagen": "url_imagen_murcielago.jpg"
   },
   {
     "pregunta": "Soy una fruta que es amarilla por fuera y blanca por dentro, que soy?",
@@ -71,12 +73,14 @@
   {
     "pregunta": "Tiene ramas, pero no soy un arbol. Que soy?",
     "respuesta": "Una empresa",
-    "tipo": "Objeto"
+    "tipo": "Objeto",
+    "imagen": "url_imagen_murcielago.jpg"
   },
   {
     "pregunta": "Soy un lugar donde las personas van a nadar. Que soy?",
     "respuesta": "Piscina",
-    "tipo": "Lugar"
+    "tipo": "Lugar",
+    "imagen": "url_imagen_murcielago.jpg"
   },
   {
     "pregunta": "Tengo patas pero no puedo caminar, que soy?",
@@ -99,7 +103,8 @@
   {
     "pregunta": "Soy un lugar donde se guardan coches, que soy?",
     "respuesta": "Garaje",
-    "tipo": "Lugar"
+    "tipo": "Lugar",
+    "imagen": "url_imagen_murcielago.jpg"
   },
   {
     "pregunta": "Soy un objeto que se usa para escribir, que soy?",
@@ -128,7 +133,8 @@
   {
     "pregunta": "Soy un numero que sigue al siete, cual es?",
     "respuesta": "El ocho",
-    "tipo": "Numero"
+    "tipo": "Numero",
+    "imagen": "url_imagen_murcielago.jpg"
   },
   {
     "pregunta": "Tengo dientes pero no puedo morder, que soy?",
@@ -157,7 +163,8 @@
   {
     "pregunta": "Soy un lugar donde se guardan libros, que soy?",
     "respuesta": "Biblioteca",
-    "tipo": "Lugar"
+    "tipo": "Lugar",
+    "imagen": "url_imagen_murcielago.jpg"
   },
   {
     "pregunta": "Tengo patas pero no puedo caminar, que soy?",
