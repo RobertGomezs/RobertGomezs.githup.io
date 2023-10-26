@@ -3,192 +3,128 @@
     "pregunta": "Tiene hojas pero no es un libro, tiene una corona pero no es un rey, que es?",
     "respuesta": "El arbol",
     "tipo": "Objeto",
-    "imagen": "url_imagen_arbol.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/Arbol.jpg?alt=media&token=1eb9499f-d571-4561-bcf3-cc00b497aff9&_gl=1*1s7s0er*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzg4MDAuNjAuMC4w"
   },
   {
     "pregunta": "Vuelo de noche, duermo de dia, no soy un pajaro, pero en el aire estoy. Que soy?",
-    "respuesta": "Murcielago",
+    "respuesta": "El murcielago",
     "tipo": "Animal",
-    "imagen": "url_imagen_murcielago.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/murcielago.png?alt=media&token=601c2ba1-4981-4567-9ea5-51b00449d509&_gl=1*4g4f7i*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzg4MzAuMzAuMC4w"
   },
   {
     "pregunta": "Soy un numero entre 1 y 10, si me sumas con 4 obtienes 9. Que numero soy?",
     "respuesta": "Cinco",
     "tipo": "Numero",
-    "imagen": "url_imagen_murcielago.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/cinco.png?alt=media&token=f7ee1824-5817-449e-82d0-76d8ffc381f6&_gl=1*1on3596*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzg4NTYuNC4wLjA."
   },
   {
     "pregunta": "Tiene cuatro patas y maulla, que es?",
-    "respuesta": "gato",
+    "respuesta": "El gato",
     "tipo": "Animal",
-    "imagen": "url_imagen_gato.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/gato.png?alt=media&token=0ce7bb32-68f9-465b-aded-c79aae7d6186&_gl=1*1ga4pep*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzg4NzguNjAuMC4w"
   },
   {
     "pregunta": "Se utiliza para medir el tiempo, pero no es un reloj. Que es?",
-    "respuesta": "reloj de arena",
+    "respuesta": "Reloj de arena",
     "tipo": "Objeto",
-    "imagen": "url_imagen_reloj_arena.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/reloj%20de%20arena.png?alt=media&token=e8dc70af-8b0d-4230-a3f6-036fb1fe5f92&_gl=1*8o5lad*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzg5MDYuMzIuMC4w"
   },
   {
     "pregunta": "Tiene dientes pero no puede morder, que es?",
-    "respuesta": "peine",
+    "respuesta": "El peine",
     "tipo": "Objeto",
-    "imagen": "url_imagen_peine.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/el%20peine.jpg?alt=media&token=4ee97df8-0f03-477c-bb09-af92fb286d11&_gl=1*16fcp1t*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzg5MzIuNi4wLjA."
   },
   {
     "pregunta": "Soy redondo y siempre avanzo, pero no soy una pelota. Que soy?",
     "respuesta": "El Sol",
     "tipo": "Objeto",
-    "imagen": "url_imagen_sol.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/sol.png?alt=media&token=0ada0b4f-4017-4855-9e88-de7bad430295&_gl=1*1ghm33e*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzg5NTUuNjAuMC4w"
   },
   {
     "pregunta": "Tengo un corazon que no late, que soy?",
-    "respuesta": "alcachofa",
+    "respuesta": "Una alcachofa",
     "tipo": "Objeto",
-    "imagen": "url_imagen_alcachofa.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/alcachofa.jpg?alt=media&token=beccf697-2a7c-4e97-83a0-cee02471bc1c&_gl=1*yec5lg*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkwMzAuNTguMC4w"
   },
   {
     "pregunta": "Soy un lugar donde se guardan libros, que soy?",
-    "respuesta": "Biblioteca",
-    "tipo": "Lugar"
+    "respuesta": "La biblioteca",
+    "tipo": "Lugar",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/Biblioteca.jpg?alt=media&token=6fffb48a-23f1-4ccb-b915-1042b57a25b9&_gl=1*103an64*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkwNDguNDAuMC4w"
   },
   {
     "pregunta": "Soy un animal que es conocido por ser lento y llevar mi casa en mi espalda, quien soy?",
-    "respuesta": "Caracol",
+    "respuesta": "El caracol",
     "tipo": "Animal",
-    "imagen": "url_imagen_caracol.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/el-caracol.png?alt=media&token=61c2001b-da52-4c41-86fe-6a31d0c1fe61&_gl=1*h6d2nc*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkxMjUuNjAuMC4w"
   },
   {
     "pregunta": "Soy un numero que esta justo antes del nueve, cual es?",
     "respuesta": "El ocho",
     "tipo": "Numero",
-    "imagen": "url_imagen_murcielago.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/numero-8.png?alt=media&token=569d1e78-5b27-48a8-8b12-facd3037144d&_gl=1*ss03j*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkxNTYuMjkuMC4w"
   },
   {
     "pregunta": "Soy una fruta que es amarilla por fuera y blanca por dentro, que soy?",
     "respuesta": "El platano",
     "tipo": "Objeto",
-    "imagen": "url_imagen_platano.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/platano.jpg?alt=media&token=330bfece-0f65-4b83-bc2b-1a748ff20397&_gl=1*6fumyf*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkxODkuNjAuMC4w"
   },
   {
     "pregunta": "Tiene ramas, pero no soy un arbol. Que soy?",
     "respuesta": "Una empresa",
     "tipo": "Objeto",
-    "imagen": "url_imagen_murcielago.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/empresa.jpg?alt=media&token=b4bb35b2-5854-40a4-9fbf-db5815e4b917&_gl=1*qwat23*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkyMTIuMzcuMC4w"
   },
   {
     "pregunta": "Soy un lugar donde las personas van a nadar. Que soy?",
-    "respuesta": "Piscina",
+    "respuesta": "Piscina o alberca",
     "tipo": "Lugar",
-    "imagen": "url_imagen_murcielago.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/picina.jpg?alt=media&token=634ac269-5f85-495c-85cf-49dcb1321a5f&_gl=1*c2u6ej*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkyNDMuNi4wLjA."
   },
   {
     "pregunta": "Tengo patas pero no puedo caminar, que soy?",
-    "respuesta": "Mesa",
+    "respuesta": "La Mesa",
     "tipo": "Objeto",
-    "imagen": "url_imagen_mesa.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/mesa.png?alt=media&token=9b376498-f2c5-4332-8b28-42452017e16e&_gl=1*vm0vgf*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkyNjcuNjAuMC4w"
   },
   {
     "pregunta": "Tengo agujas pero no coso, que soy?",
-    "respuesta": "pino",
+    "respuesta": "El pino",
     "tipo": "Objeto",
-    "imagen": "url_imagen_pino.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/pino.jpg?alt=media&token=181875e2-e23a-4648-81b3-555216f8349d&_gl=1*1n13qbq*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkyOTEuMzYuMC4w"
   },
   {
     "pregunta": "Soy una fruta que es roja por fuera y tiene muchas semillas, que soy?",
     "respuesta": "La fresa",
     "tipo": "Objeto",
-    "imagen": "url_imagen_fresa.jpg"
-  },
-  {
-    "pregunta": "Soy un lugar donde se guardan coches, que soy?",
-    "respuesta": "Garaje",
-    "tipo": "Lugar",
-    "imagen": "url_imagen_murcielago.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/fresa.jpeg?alt=media&token=be1ffb36-5939-4694-9327-aa724dca9076&_gl=1*1dwc1un*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkzMTguOS4wLjA."
   },
   {
     "pregunta": "Soy un objeto que se usa para escribir, que soy?",
-    "respuesta": "Lapiz",
+    "respuesta": "El lapiz",
     "tipo": "Objeto",
-    "imagen": "url_imagen_lapiz.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/lapiz.jpg?alt=media&token=f83bff5d-e1e6-4079-b4cb-34654f7818c7&_gl=1*861pud*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkzMzQuNjAuMC4w"
   },
   {
     "pregunta": "Tengo patas y muevo la cola, soy amigo del hombre y no soy una mascota. Que soy?",
-    "respuesta": "Caballo",
+    "respuesta": "El caballo",
     "tipo": "Animal",
-    "imagen": "url_imagen_caballo.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/caballos.png?alt=media&token=60fd3632-f09b-41f0-97bb-8847881807ce&_gl=1*a9dz0c*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkzNjYuMjguMC4w"
   },
   {
     "pregunta": "Soy un objeto que se usa para iluminar, pero no soy una lampara. Que soy?",
-    "respuesta": "Vela",
+    "respuesta": "La vela",
     "tipo": "Objeto",
-    "imagen": "url_imagen_vela.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/vela.png?alt=media&token=b348517f-41df-4e8a-a69d-5319e15bdddd&_gl=1*1vnqekz*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkzODcuNy4wLjA."
   },
   {
     "pregunta": "Tengo plumas y vuelo alto en el cielo, que soy?",
-    "respuesta": "Aguila",
+    "respuesta": "Un aguila",
     "tipo": "Animal",
-    "imagen": "url_imagen_aguila.jpg"
-  },
-  {
-    "pregunta": "Soy un numero que sigue al siete, cual es?",
-    "respuesta": "El ocho",
-    "tipo": "Numero",
-    "imagen": "url_imagen_murcielago.jpg"
-  },
-  {
-    "pregunta": "Tengo dientes pero no puedo morder, que soy?",
-    "respuesta": "Un peine",
-    "tipo": "Objeto",
-    "imagen": "url_imagen_peine.jpg"
-  },
-  {
-    "pregunta": "Tengo un corazon que no late, que soy?",
-    "respuesta": "alcachofa",
-    "tipo": "Objeto",
-    "imagen": "url_imagen_alcachofa.jpg"
-  },
-  {
-    "pregunta": "Soy redondo y siempre avanzo, pero no soy una pelota. Que soy?",
-    "respuesta": "El Sol",
-    "tipo": "Objeto",
-    "imagen": "url_imagen_sol.jpg"
-  },
-  {
-    "pregunta": "Tengo hojas pero no soy un libro, que soy?",
-    "respuesta": "Arbol",
-    "tipo": "Objeto",
-    "imagen": "url_imagen_arbol.jpg"
-  },
-  {
-    "pregunta": "Soy un lugar donde se guardan libros, que soy?",
-    "respuesta": "Biblioteca",
-    "tipo": "Lugar",
-    "imagen": "url_imagen_murcielago.jpg"
-  },
-  {
-    "pregunta": "Tengo patas pero no puedo caminar, que soy?",
-    "respuesta": "Mesa",
-    "tipo": "Objeto",
-    "imagen": "url_imagen_mesa.jpg"
-  },
-  {
-    "pregunta": "Tengo agujas pero no coso, que soy?",
-    "respuesta": "pino",
-    "tipo": "Objeto",
-    "imagen": "url_imagen_pino.jpg"
-  },
-  {
-    "pregunta": "Soy una fruta que es roja por fuera y tiene muchas semillas, que soy?",
-    "respuesta": "fresa",
-    "tipo": "Objeto",
-    "imagen": "url_imagen_fresa.jpg"
-  },
-  {
-    "pregunta": "Soy un objeto que se usa para escribir, que soy?",
-    "respuesta": "Lapiz",
-    "tipo": "Objeto",
-    "imagen": "url_imagen_lapiz.jpg"
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/aguila.jpg?alt=media&token=a12f0c54-780b-40e7-8858-25e90e37d014&_gl=1*vgk51m*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzk0MDMuNjAuMC4w"
   }
+
  
 ]
