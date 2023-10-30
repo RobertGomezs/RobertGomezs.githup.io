@@ -1,6 +1,13 @@
 {
   "canciones": [
     {
+      "name": "El jefe",
+      "artista": "Shakira, fuerza regida",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fshakira.jpg?alt=media&token=9112c3fd-dd4c-47ac-98f2-8c87b4009b25&_gl=1*1lh897n*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTA4ODguNTkuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fshakia%2FShakira%2C%20Fuerza%20Regida%20-%20El%20Jefe%20(Official%20Video).mp3?alt=media&token=080b1a07-76a9-40fb-b841-2d79b057fdb0&_gl=1*17di9lm*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTEzMzYuMTIuMC4w",
+      "genero": "Pop"
+    },
+    {
       "name": "Provenza",
       "artista": "Karol G",
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2FKarol_G.jpg?alt=media&token=2c2d440c-c06e-4196-9207-bb2db4c08217",
@@ -3773,7 +3780,57 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Freik.png?alt=media&token=3963ae92-f63b-4bab-918d-7938242ea98d&_gl=1*194r4xt*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODc5NjMuNDcuMC4w",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FReik%2FReik%20-%20Yo%20Quisiera%20(Video).mp3?alt=media&token=c39dd311-a4eb-4dc9-aa7c-b3a4b5867b19&_gl=1*7rz1fd*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODg0MjcuNjAuMC4w",
       "genero": "Romanticas"
+    },
+    {
+      "name": "La bicicleta",
+      "artista": "Shakira y carlos vives",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fshakira.jpg?alt=media&token=9112c3fd-dd4c-47ac-98f2-8c87b4009b25&_gl=1*1lh897n*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTA4ODguNTkuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fshakia%2FCarlos%20Vives%2C%20Shakira%20-%20La%20Bicicleta%20(LetraLyrics).mp3?alt=media&token=997f351d-a1d9-4b45-9ce1-8bae229738c3&_gl=1*1fs7oae*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTA5NDcuNjAuMC4w",
+      "genero": "Pop"
+    },
+    {
+      "name": "TQG",
+      "artista": "Shakira, Carol G",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fshakira.jpg?alt=media&token=9112c3fd-dd4c-47ac-98f2-8c87b4009b25&_gl=1*1lh897n*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTA4ODguNTkuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fshakia%2FKAROL%20G%2C%20Shakira%20-%20TQG%20(Letra).mp3?alt=media&token=9efea576-0a3d-41ea-8f27-bbb7c3a74a85&_gl=1*1ytqnj1*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTEwMDQuMy4wLjA.",
+      "genero": "Pop"
+    },
+    {
+      "name": "Pa tipos como tu",
+      "artista": "Shakira,BZRP",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fshakira.jpg?alt=media&token=9112c3fd-dd4c-47ac-98f2-8c87b4009b25&_gl=1*1lh897n*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTA4ODguNTkuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fshakia%2FSHAKIRA%20BZRP%20-%20Pa%20Tipos%20Como%20T%C3%BA%20(LetraLyrics).mp3?alt=media&token=bcc183f2-3427-4ea3-a9c1-b101b5c596cc&_gl=1*y8rj8o*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTEyMDguNTUuMC4w",
+      "genero": "Pop"
+    },
+    {
+      "name": "Acrostico",
+      "artista": "Shakira",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fshakira.jpg?alt=media&token=9112c3fd-dd4c-47ac-98f2-8c87b4009b25&_gl=1*1lh897n*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTA4ODguNTkuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fshakia%2FShakira%20-%20Acr%C3%B3stico%20(LetraLyrics).mp3?alt=media&token=e5639ad4-d57a-4a68-a396-d8d525fe7a94&_gl=1*1wm48j9*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTEyODguNjAuMC4w",
+      "genero": "Pop"
+    },
+    {
+      "name": "Monotonia",
+      "artista": "Shakira,ozuna",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fshakira.jpg?alt=media&token=9112c3fd-dd4c-47ac-98f2-8c87b4009b25&_gl=1*1lh897n*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTA4ODguNTkuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fshakia%2FShakira%2C%20Ozuna%20-%20Monoton%C3%ADa%20(LetraLyrics)%20Fue%20culpa%20de%20la%20monoton%C3%ADa.mp3?alt=media&token=46791f2c-a177-405b-899c-a947879362f4&_gl=1*9fvfu1*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTE0MTQuNjAuMC4w",
+      "genero": "Pop"
+    },
+    {
+      "name": "Te Felicito",
+      "artista": "Shakira",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fshakira.jpg?alt=media&token=9112c3fd-dd4c-47ac-98f2-8c87b4009b25&_gl=1*1lh897n*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTA4ODguNTkuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fshakia%2FShakira%2C%20Rauw%20Alejandro%20-%20Te%20Felicito%20(Letra)%20Te%20felicito%20qu%C3%A9%20bien%20act%C3%BAas.mp3?alt=media&token=f3848b10-bb72-4584-9687-478e4aa27ffe&_gl=1*lwpoaj*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTE0NTguMTYuMC4w",
+      "genero": "Pop"
+    },
+    {
+      "name": "Waka waka",
+      "artista": "Shakira",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fshakira.jpg?alt=media&token=9112c3fd-dd4c-47ac-98f2-8c87b4009b25&_gl=1*1lh897n*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTA4ODguNTkuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fshakia%2FWaka%20Waka%20(Esto%20es%20Africa)%20-%20Shakira%20(LetraLyrics).mp3?alt=media&token=339dab49-efb9-4477-82d8-13a85058c192&_gl=1*jzf019*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTE1MTIuNjAuMC4w",
+      "genero": "Pop"
     }
+
 
   ],
   "notificacion": [
