@@ -3696,8 +3696,84 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Fenrique%20iglesias.JPG?alt=media&token=081dea2d-859b-4d6f-bae9-b55f7efaed95&_gl=1*1l9e5z5*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODczODYuNDMuMC4w",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FEnrique%20Iglesias%2FEnrique%20Iglesias%20ft.%20Romeo%20Santos%20-%20Loco%20(Letra).mp3?alt=media&token=e8f5efb4-8385-47c5-8632-4d76a93b2c46&_gl=1*nacjsc*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODc4MTkuMTYuMC4w",
       "genero": "Romanticas"
+    },
+    {
+      "name": "Ciego",
+      "artista": "Reik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Freik.png?alt=media&token=3963ae92-f63b-4bab-918d-7938242ea98d&_gl=1*194r4xt*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODc5NjMuNDcuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FReik%2FReik%20-%20Ciego.mp3?alt=media&token=c93e24f9-a318-4b4f-9ee6-1d04e39b1342&_gl=1*dxfu44*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODc5OTQuMTYuMC4w",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Creo en ti",
+      "artista": "Reik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Freik.png?alt=media&token=3963ae92-f63b-4bab-918d-7938242ea98d&_gl=1*194r4xt*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODc5NjMuNDcuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FReik%2FReik%20-%20Creo%20En%20Ti.mp3?alt=media&token=fb528d9c-a524-4237-b222-8fcf49fe14ec&_gl=1*eexyyp*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODgwMzQuNjAuMC4w",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Fuerte no soy",
+      "artista": "Reik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Freik.png?alt=media&token=3963ae92-f63b-4bab-918d-7938242ea98d&_gl=1*194r4xt*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODc5NjMuNDcuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FReik%2FReik%20-%20Fuerte%20No%20Soy%20(Video%20Oficial).mp3?alt=media&token=f29101cc-f3db-4b57-963f-5b6a5ebc5871&_gl=1*1a48tae*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODgwNjYuMjguMC4w",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Inolvidable",
+      "artista": "Reik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Freik.png?alt=media&token=3963ae92-f63b-4bab-918d-7938242ea98d&_gl=1*194r4xt*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODc5NjMuNDcuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FReik%2FReik%20-%20Inolvidable%20(Video).mp3?alt=media&token=0efef12e-01f8-4892-a01b-e2c6c2f2df35&_gl=1*8gcsqj*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODgxMDQuNjAuMC4w",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Me duele amarte",
+      "artista": "Reik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Freik.png?alt=media&token=3963ae92-f63b-4bab-918d-7938242ea98d&_gl=1*194r4xt*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODc5NjMuNDcuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FReik%2FReik%20-%20Me%20Duele%20Amarte.mp3?alt=media&token=ba690e1a-039b-4f49-9780-a115a79aa93f&_gl=1*1e9u0ed*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODgxNjcuNjAuMC4w",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Noviembre sin ti",
+      "artista": "Reik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Freik.png?alt=media&token=3963ae92-f63b-4bab-918d-7938242ea98d&_gl=1*194r4xt*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODc5NjMuNDcuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FReik%2FReik%20-%20Noviembre%20Sin%20Ti%20(Video).mp3?alt=media&token=8c3e97c7-326b-4046-9808-ce2a3987480c&_gl=1*ejyrk1*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODgyMDYuMjEuMC4w",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Pero te conoci",
+      "artista": "Reik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Freik.png?alt=media&token=3963ae92-f63b-4bab-918d-7938242ea98d&_gl=1*194r4xt*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODc5NjMuNDcuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FReik%2FReik%20-%20Pero%20Te%20Conoc%C3%AD.mp3?alt=media&token=9e4e9683-6c9d-4299-bae9-cd702275c378&_gl=1*gcszcx*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODgyNDkuNjAuMC4w",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Sabes",
+      "artista": "Reik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Freik.png?alt=media&token=3963ae92-f63b-4bab-918d-7938242ea98d&_gl=1*194r4xt*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODc5NjMuNDcuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FReik%2FReik%20-%20Sabes%20(Letra%20Lyrics).mp3?alt=media&token=a8b03fcc-7471-43d2-a859-89c8ad7792bf&_gl=1*1czkxrm*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODgyOTMuMTYuMC4w",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Te fuistes de aqui",
+      "artista": "Reik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Freik.png?alt=media&token=3963ae92-f63b-4bab-918d-7938242ea98d&_gl=1*194r4xt*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODc5NjMuNDcuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FReik%2FReik%20-%20Te%20Fuiste%20de%20Aqu%C3%AD%20(Video%20Oficial).mp3?alt=media&token=7fb20f11-7bb0-48d6-b4ad-3b76f4d9adf9&_gl=1*6fqt0i*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODgzNDAuNjAuMC4w",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Voy a olvidarte",
+      "artista": "Reik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Freik.png?alt=media&token=3963ae92-f63b-4bab-918d-7938242ea98d&_gl=1*194r4xt*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODc5NjMuNDcuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FReik%2FReik%20-%20Voy%20a%20Olvidarte%20(Official%20Video).mp3?alt=media&token=d9566513-dd2d-4359-8a5b-dd0c666e166a&_gl=1*pmlbz8*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODgzODIuMTguMC4w",
+      "genero": "Romanticas"
+    },
+    {
+      "name": "Yo quisiera",
+      "artista": "Reik",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2Fimagenes%2Freik.png?alt=media&token=3963ae92-f63b-4bab-918d-7938242ea98d&_gl=1*194r4xt*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODc5NjMuNDcuMC4w",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Romanticas%2FReik%2FReik%20-%20Yo%20Quisiera%20(Video).mp3?alt=media&token=c39dd311-a4eb-4dc9-aa7c-b3a4b5867b19&_gl=1*7rz1fd*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY4NjkwOC4zNy4xLjE2OTg2ODg0MjcuNjAuMC4w",
+      "genero": "Romanticas"
     }
-
 
   ],
   "notificacion": [
