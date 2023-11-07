@@ -72,7 +72,7 @@
     "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/numero-8.png?alt=media&token=569d1e78-5b27-48a8-8b12-facd3037144d&_gl=1*ss03j*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkxNTYuMjkuMC4w"
   },
   {
-    "pregunta": "Soy una fruta que es amarilla por fuera y blanca por dentro, que soy?",
+    "pregunta": "Oro parece, plata no es. Abran las cortinas y veran lo que es.",
     "respuesta": "El platano",
     "tipo": "Objeto",
     "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/platano.jpg?alt=media&token=330bfece-0f65-4b83-bc2b-1a748ff20397&_gl=1*6fumyf*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkxODkuNjAuMC4w"
@@ -166,6 +166,72 @@
     "respuesta": "Una cadena",
     "tipo": "Objeto",
     "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/cadenajpg.jpg?alt=media&token=a0649007-d533-4856-aa7b-08be001b330b&_gl=1*kom4pc*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM2NTc0My4zOS4xLjE2OTkzNjg3NTMuNDQuMC4w"
+  },
+  {
+    "pregunta": "Tengo agujas pero no se coser, tengo numeros pero no se leer, las horas te doy. Sabes quien soy",
+    "respuesta": "El reloj",
+    "tipo": "Objeto",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/reloj.jpg?alt=media&token=4e4b2953-361f-41d5-baae-7e0343c14686&_gl=1*rgolqf*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM3MTEzNC40MC4xLjE2OTkzNzEyMDIuNjAuMC4w"
+  },
+  {
+    "pregunta": "Blanca por dentro, verde por fuera. Si no sabes, espera. ¿Que es?",
+    "respuesta": "La Pera",
+    "tipo": "Objeto",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/Pera.jpg?alt=media&token=e4e48957-3363-4120-972f-383fcbcd8861&_gl=1*v3s2aw*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM3MTEzNC40MC4xLjE2OTkzNzEyMzEuMzEuMC4w"
+  },
+  {
+    "pregunta": "Sal al campo por las noches si me quieres conocer, soy señor de grandes ojos, cara seria y gran saber. Quien soy?",
+    "respuesta": "El buho.",
+    "tipo": "Animal",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/buho.jpg?alt=media&token=ff4a80a0-96d8-4db5-9387-2b0fd91a0f8c&_gl=1*r5ndrq*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM3MTEzNC40MC4xLjE2OTkzNzEyNjEuMS4wLjA."
+  },
+  {
+    "pregunta": "Canto en la orilla, vivo en el agua, no soy pescado y tampoco cigarra.",
+    "respuesta": "La rana",
+    "tipo": "Animal",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/rana.jpg?alt=media&token=88b93325-85c9-4487-86b7-d04945fd9720&_gl=1*ludanr*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM3MTEzNC40MC4xLjE2OTkzNzEyODYuNjAuMC4w"
+  },
+  {
+    "pregunta": "Me llegan las cartas y no se leer y, aunque me las trago, no mancho el papel. Que es?",
+    "respuesta": "El buzon",
+    "tipo": "Objeto",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/buzon.png?alt=media&token=21e239ec-b5b6-4560-a8f4-1432c4dc5184&_gl=1*1i6znpf*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM3MTEzNC40MC4xLjE2OTkzNzEzMTQuMzIuMC4w"
+  },
+  {
+    "pregunta": "Te la digo, te la digo, te la vuelvo a repetir, te la digo veinte veces y no me la sabes decir. Que es?",
+    "respuesta": "La tela",
+    "tipo": "Objeto",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/tela.jpg?alt=media&token=de6f1cd9-ff83-4996-97a0-d96aac86b733&_gl=1*kwfuqj*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM3MTEzNC40MC4xLjE2OTkzNzEzNDUuMS4wLjA."
+  },
+  {
+    "pregunta": "Si soy joven, joven quedo. Si soy viejo, viejo quedo. Tengo boca y no te hablo. Tengo ojos y no te veo. Quien soy?",
+    "respuesta": "El retrato",
+    "tipo": "Objeto",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/Retrato.jpg?alt=media&token=1ca5eb7c-bae4-4bcd-a24f-f44a22caa16e&_gl=1*6qsz5i*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM3MTEzNC40MC4xLjE2OTkzNzEzNjkuNjAuMC4w"
+  },
+  {
+    "pregunta": "Todos me quieren para descansar. Si ya te lo he dicho, No lo pienses mas.",
+    "respuesta": "La silla",
+    "tipo": "Objeto",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/silla.jpg?alt=media&token=28abf486-3ed8-42ee-baa1-f5e3fbf3e78a&_gl=1*148to3a*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM3MTEzNC40MC4xLjE2OTkzNzEzOTguMzEuMC4w"
+  },
+  {
+    "pregunta": "Todos pasan por mi, pero yo nunca paso por nadie. Todos preguntan por mi, pero yo nunca pregunto por nadie. Que es?",
+    "respuesta": "La calle",
+    "tipo": "Objeto",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/calle.jpg?alt=media&token=b2ae926c-8e9b-4e41-8c4e-7251624c7673&_gl=1*1ladlpc*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM3MTEzNC40MC4xLjE2OTkzNzE0MjcuMi4wLjA."
+  },
+  {
+    "pregunta": "Nace en el mar, muere en el rio. Ese es mi nombre, pues vaya que lio",
+    "respuesta": "Mario",
+    "tipo": "Otro",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/mario.png?alt=media&token=40cb2b74-a7e4-496c-bd9e-13d1ca39a787&_gl=1*19gnrug*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM3MTEzNC40MC4xLjE2OTkzNzE0NjAuNjAuMC4w"
+  },
+  {
+    "pregunta": "Tiene dientes y no come, tiene cabeza y no es hombre. ¿Que es?",
+    "respuesta": "El ajo",
+    "tipo": "Objeto",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/ajo.jpg?alt=media&token=43949fd9-bf5f-49fd-82aa-80a5ad3a7630&_gl=1*kc3c88*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM3MTEzNC40MC4xLjE2OTkzNzE0ODcuMzMuMC4w"
   }
 
 
