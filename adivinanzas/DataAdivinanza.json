@@ -218,7 +218,7 @@
   {
     "pregunta": "Todos pasan por mi, pero yo nunca paso por nadie. Todos preguntan por mi, pero yo nunca pregunto por nadie. Que es?",
     "respuesta": "La calle",
-    "tipo": "Objeto",
+    "tipo": "Lugar",
     "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/calle.jpg?alt=media&token=b2ae926c-8e9b-4e41-8c4e-7251624c7673&_gl=1*1ladlpc*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM3MTEzNC40MC4xLjE2OTkzNzE0MjcuMi4wLjA."
   },
   {
