@@ -154,6 +154,18 @@
     "respuesta": "Un anzuelo",
     "tipo": "Objeto",
     "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/anzuelo.jpg?alt=media&token=8dfe08e3-d7f2-445f-b40c-bed684f2f409&_gl=1*1vgd9f2*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM2NTc0My4zOS4xLjE2OTkzNjc0MTAuNDAuMC4w"
+  },
+  {
+    "pregunta": "Que es mss fuerte que el acero, pero no puede soportar el sol?",
+    "respuesta": "El hielo",
+    "tipo": "Objeto",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/hielo.jpg?alt=media&token=839100ed-db14-4cd3-bba2-189cb335b738&_gl=1*100wd6e*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM2NTc0My4zOS4xLjE2OTkzNjg1MTIuNDYuMC4w"
+  },
+  {
+    "pregunta": "Estoy lleno de agujeros, pero soy fuerte como el acero.Que soy?",
+    "respuesta": "Una cadena",
+    "tipo": "Objeto",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/cadenajpg.jpg?alt=media&token=a0649007-d533-4856-aa7b-08be001b330b&_gl=1*kom4pc*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM2NTc0My4zOS4xLjE2OTkzNjg3NTMuNDQuMC4w"
   }
 
 
