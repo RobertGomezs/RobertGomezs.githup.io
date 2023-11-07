@@ -1,5 +1,11 @@
 [
   {
+    "pregunta": "Si me dejas caer, seguro que me parto. Dame una sonrisa, y siempre te devolvere otra. Que soy?",
+    "respuesta": "Un espejo",
+    "tipo": "Objeto",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/espejo.jpg?alt=media&token=2e8a9ed5-258b-426c-a3d5-09efb25238a1&_gl=1*1caa3w2*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM2NTc0My4zOS4xLjE2OTkzNjU5NDIuNDEuMC4w"
+  },
+  {
     "pregunta": "Tiene hojas pero no es un libro, tiene una corona pero no es un rey, que es?",
     "respuesta": "El arbol",
     "tipo": "Objeto",
@@ -114,7 +120,7 @@
     "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/caballos.png?alt=media&token=60fd3632-f09b-41f0-97bb-8847881807ce&_gl=1*a9dz0c*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkzNjYuMjguMC4w"
   },
   {
-    "pregunta": "Soy un objeto que se usa para iluminar, pero no soy una lampara. Que soy?",
+    "pregunta": "Mides mi vida en horas y yo te sirvo expirando. Soy rapido cuando estoy delgado y lento cuando estoy gordo. El viento es mi enemigo.",
     "respuesta": "La vela",
     "tipo": "Objeto",
     "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/vela.png?alt=media&token=b348517f-41df-4e8a-a69d-5319e15bdddd&_gl=1*1vnqekz*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzkzODcuNy4wLjA."
@@ -124,7 +130,31 @@
     "respuesta": "Un aguila",
     "tipo": "Animal",
     "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/aguila.jpg?alt=media&token=a12f0c54-780b-40e7-8858-25e90e37d014&_gl=1*vgk51m*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODMzNzM4OC4zNC4xLjE2OTgzMzk0MDMuNjAuMC4w"
+  },
+  {
+    "pregunta": "Hablo sin boca y oigo sin oidos. No tengo cuerpo, pero cobro vida con el viento. Que soy?",
+    "respuesta": "El eco",
+    "tipo": "Otro",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/eco.jpg?alt=media&token=26b42a9d-0974-432a-a298-fb7f687a1204&_gl=1*1265ivd*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM2NTc0My4zOS4xLjE2OTkzNjY1MjQuMzguMC4w"
+  },
+  {
+    "pregunta": "Los pobres lo tienen. Los ricos la necesitan. Si te lo comes te mueres. Que es?",
+    "respuesta": "Nada",
+    "tipo": "Otro",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/nada.jpg?alt=media&token=426e754d-d9b8-4813-a743-9680b1c46119&_gl=1*ndykzk*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM2NTc0My4zOS4xLjE2OTkzNjY5MTUuNDYuMC4w"
+  },
+  {
+    "pregunta": "Tengo ciudades, pero no casas. Tengo montañas, pero no arboles. Tengo agua, pero no peces. Que soy?",
+    "respuesta": "Un mapa",
+    "tipo": "Objeto",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/mapa.jpg?alt=media&token=b3c71bbb-6abd-403d-a7d1-8fb5b16d4ec6&_gl=1*i70ptk*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM2NTc0My4zOS4xLjE2OTkzNjcxMzQuNDYuMC4w"
+  },
+  {
+    "pregunta": "Primero me comes y luego te comen. Que soy?",
+    "respuesta": "Un anzuelo",
+    "tipo": "Objeto",
+    "imagen": "https://firebasestorage.googleapis.com/v0/b/adivinanza-cb0a1.appspot.com/o/anzuelo.jpg?alt=media&token=8dfe08e3-d7f2-445f-b40c-bed684f2f409&_gl=1*1vgd9f2*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5OTM2NTc0My4zOS4xLjE2OTkzNjc0MTAuNDAuMC4w"
   }
 
- 
+
 ]
