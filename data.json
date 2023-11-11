@@ -15,6 +15,13 @@
       "genero": "Banda"
     },
     {
+      "name": "El Amor de su vida",
+      "artista": "Grupo Frontera - Grupo Firme",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20fonteras.jpg?alt=media&token=4b33a7f5-8878-4a60-ba74-455b19286c76",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Frontera%2FGrupo%20Frontera%20x%20Grupo%20Firme%20-%20EL%20AMOR%20DE%20SU%20VIDA%20(LetraLyrics).mp3?alt=media&token=30f34b1a-cc4a-4e8b-a4ec-93dc30d2bd2b",
+      "genero": "Regional"
+    },
+    {
       "name": "Ella baila sola",
       "artista": "Peso Pluma",
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Banda%2Fimagenes%2FPeso_pluma.jpg?alt=media&token=28e01b92-61b8-4fb2-8e5f-7d168bf265da",
@@ -3905,6 +3912,111 @@
       "artista": "Grupo firme",
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20firme.jpg?alt=media&token=cf320853-c460-457a-9ea2-b001a7a0ee9d",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Firme%2FPideme%20-%20Grupo%20Firme%20(LetraLyrics).mp3?alt=media&token=baa9bde8-1364-4e46-ba77-bc03793a6edd",
+      "genero": "Regional"
+    },
+    {
+      "name": "Adoro",
+      "artista": "Bronco",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fbronco.jpg?alt=media&token=2955a1f7-530f-4b21-b0eb-46f8551a6df8",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FBronco%2FBronco%20-%20Adoro%20(Letra).mp3?alt=media&token=bc2b483a-5015-4d77-a17f-3faae1a25236",
+      "genero": "Regional"
+    },
+    {
+      "name": "Amor total",
+      "artista": "Bronco",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fbronco.jpg?alt=media&token=2955a1f7-530f-4b21-b0eb-46f8551a6df8",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FBronco%2FBronco%20-%20Amor%20Total%20(Letra).mp3?alt=media&token=fbd6da82-1cad-49bc-8dfa-8ab097d3ffbf",
+      "genero": "Regional"
+    },
+    {
+      "name": "Si te vuelves a enamorar",
+      "artista": "Bronco",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fbronco.jpg?alt=media&token=2955a1f7-530f-4b21-b0eb-46f8551a6df8",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FBronco%2FBronco%20-%20Si%20Te%20Vuelves%20a%20Enamorar%20(%20Primera%20Fila%20)%20(En%20Vivo).mp3?alt=media&token=9e6451cb-ad5c-4e2c-9d30-068ef60d00dc",
+      "genero": "Regional"
+    },
+    {
+      "name": "Libros tontos",
+      "artista": "Bronco",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fbronco.jpg?alt=media&token=2955a1f7-530f-4b21-b0eb-46f8551a6df8",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FBronco%2FLibros%20Tontos%20-%20Bronco%20(Letra).mp3?alt=media&token=e7bea98b-1600-422c-8a70-997d576466d0",
+      "genero": "Regional"
+    },
+    {
+      "name": "Oro",
+      "artista": "Bronco",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fbronco.jpg?alt=media&token=2955a1f7-530f-4b21-b0eb-46f8551a6df8",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FBronco%2FOro%20-%20Bronco%20(Letra).mp3?alt=media&token=ca2b8b17-ac9a-478c-a2d1-0e4a3ad481d4",
+      "genero": "Regional"
+    },
+    {
+      "name": "Que te han visto llorar",
+      "artista": "Bronco",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fbronco.jpg?alt=media&token=2955a1f7-530f-4b21-b0eb-46f8551a6df8",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FBronco%2FQue%20te%20Han%20visto%20llorar%20letra%20Bronco.mp3?alt=media&token=b715a2e0-effb-4bdf-a769-b71b5d726797",
+      "genero": "Regional"
+    },
+    {
+      "name": "Corazon duro",
+      "artista": "Bronco",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fbronco.jpg?alt=media&token=2955a1f7-530f-4b21-b0eb-46f8551a6df8",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FBronco%2Fcorazon%20duro-bronco%20(letra).mp3?alt=media&token=08fa0cc1-d3cb-4115-82d5-39de7c68501f",
+      "genero": "Regional"
+    },
+    {
+      "name": "Que vuelvas",
+      "artista": "Grupo Frontera - Carin Leon",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20fonteras.jpg?alt=media&token=4b33a7f5-8878-4a60-ba74-455b19286c76",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Frontera%2FCarin%20Leon%20x%20Grupo%20Frontera%20-%20Que%20Vuelvas%20(LetraLyrics).mp3?alt=media&token=1d7d33da-fb47-4b06-aa16-0dc1bcaf6fdb",
+      "genero": "Regional"
+    },
+    {
+      "name": "Bebe dame",
+      "artista": "Grupo Frontera - Fuerza Regida",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20fonteras.jpg?alt=media&token=4b33a7f5-8878-4a60-ba74-455b19286c76",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Frontera%2FFuerza%20Regida%20x%20Grupo%20Frontera%20-%20Bebe%20Dame%20(Letra_Lyrics).mp3?alt=media&token=3b9ad4ce-5966-47fe-8bf5-5a3e3c26a9cc",
+      "genero": "Regional"
+    },
+    {
+      "name": "Amor propio",
+      "artista": "Grupo Frontera",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20fonteras.jpg?alt=media&token=4b33a7f5-8878-4a60-ba74-455b19286c76",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Frontera%2FGrupo%20Frontera%20-%20AMOR%20PROPIO%20(LETRA).mp3?alt=media&token=9a598325-58e4-4573-8d43-b36e202d3df6",
+      "genero": "Regional"
+    },
+    {
+      "name": "Cuidala",
+      "artista": "Grupo Frontera",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20fonteras.jpg?alt=media&token=4b33a7f5-8878-4a60-ba74-455b19286c76",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Frontera%2FGrupo%20Frontera%20-%20Cu%C3%ADdala%20(Letra).mp3?alt=media&token=33a0a324-c9c3-4724-9346-5f2408ab71be",
+      "genero": "Regional"
+    },
+    {
+      "name": "Me gustas",
+      "artista": "Grupo Frontera",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20fonteras.jpg?alt=media&token=4b33a7f5-8878-4a60-ba74-455b19286c76",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Frontera%2FGrupo%20Frontera%20-%20Me%20Gustas%20(LETRA)%20Estreno%202023.mp3?alt=media&token=1ab50a26-fafd-44f0-b8fe-d9517c48bb10",
+      "genero": "Regional"
+    },
+    {
+      "name": "No se va",
+      "artista": "Grupo Frontera",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20fonteras.jpg?alt=media&token=4b33a7f5-8878-4a60-ba74-455b19286c76",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Frontera%2FGrupo%20Frontera%20-%20No%20Se%20Va%20(Letra%20Oficial).mp3?alt=media&token=db93c572-d58b-411a-947e-f93a9b67c82a",
+      "genero": "Regional"
+    },
+    {
+      "name": "1X100to",
+      "artista": "Grupo Frontera - Bab bunny",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20fonteras.jpg?alt=media&token=4b33a7f5-8878-4a60-ba74-455b19286c76",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Frontera%2FGrupo%20Frontera%20x%20Bad%20Bunny%20-%20un%20x100to%20-%20No%20se%20va%20(Remix).mp3?alt=media&token=f308f158-8369-4d91-b90a-722087a4f3db",
+      "genero": "Regional"
+    },
+    {
+      "name": "Quedate conmigo",
+      "artista": "Grupo Frontera",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20fonteras.jpg?alt=media&token=4b33a7f5-8878-4a60-ba74-455b19286c76",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Frontera%2FQuedate%20Conmigo%20-%20(Video%20Con%20Letras)%20-%20Eslabon%20Armado%20y%20Grupo%20Frontera.mp3?alt=media&token=51d7e3d0-276a-4f8b-bb3d-1d6facf82188",
       "genero": "Regional"
     }
 
