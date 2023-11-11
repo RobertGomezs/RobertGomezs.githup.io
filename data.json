@@ -3836,6 +3836,76 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fshakira.jpg?alt=media&token=9112c3fd-dd4c-47ac-98f2-8c87b4009b25&_gl=1*1lh897n*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTA4ODguNTkuMC4w",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fshakia%2FWaka%20Waka%20(Esto%20es%20Africa)%20-%20Shakira%20(LetraLyrics).mp3?alt=media&token=339dab49-efb9-4477-82d8-13a85058c192&_gl=1*jzf019*_ga*ODMyMzY1MjUxLjE2OTI5OTE2MDM.*_ga_CW55HF8NVT*MTY5ODY5MDUxNi4zOC4xLjE2OTg2OTE1MTIuNjAuMC4w",
       "genero": "Pop"
+    },
+    {
+      "name": "Se veia venir",
+      "artista": "Grupo firme",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20firme.jpg?alt=media&token=cf320853-c460-457a-9ea2-b001a7a0ee9d",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Firme%2F(LETRA)%20Se%20ve%C3%ADa%20venir%20-%20Grupo%20Firme%20(Video%20Lyrics).mp3?alt=media&token=609fb91e-7027-41d2-803a-108c3e19cf9a",
+      "genero": "Regional"
+    },
+    {
+      "name": "Que onda perdida",
+      "artista": "Grupo firme",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20firme.jpg?alt=media&token=cf320853-c460-457a-9ea2-b001a7a0ee9d",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Firme%2FGrupo%20Firme%20-%20Gerardo%20Coronel%20El%20Jerry%20-%20Qu%C3%A9%20Onda%20Perdida%20(Video%20Oficial).mp3?alt=media&token=9b26e7c2-4240-4cb7-b952-2b918eff3cba",
+      "genero": "Regional"
+    },
+    {
+      "name": "Hablando claro",
+      "artista": "Grupo firme",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20firme.jpg?alt=media&token=cf320853-c460-457a-9ea2-b001a7a0ee9d",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Firme%2FGrupo%20Firme%20-%20Grupo%20Recluta%20-%20Hablando%20Claro%20(%20Video%20Lyrics%20).mp3?alt=media&token=64d78dff-15ea-4d2c-b62c-8bcdf1fbeeb1",
+      "genero": "Regional"
+    },
+    {
+      "name": "Me gustas",
+      "artista": "Grupo firme",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20firme.jpg?alt=media&token=cf320853-c460-457a-9ea2-b001a7a0ee9d",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Firme%2FGrupo%20Firme%20-%20Me%20Gustas%20(LETRA).mp3?alt=media&token=12509f76-809e-4c9e-8452-bb97db55f419",
+      "genero": "Regional"
+    },
+    {
+      "name": "Ya superame",
+      "artista": "Grupo firme",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20firme.jpg?alt=media&token=cf320853-c460-457a-9ea2-b001a7a0ee9d",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Firme%2FGrupo%20Firme%20-%20Ya%20Superame%20-%20(Video%20Lyric).mp3?alt=media&token=536a9616-d381-4140-8dce-3041f516e20e",
+      "genero": "Regional"
+    },
+    {
+      "name": "El toxico",
+      "artista": "Grupo firme x Carin Leon",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20firme.jpg?alt=media&token=cf320853-c460-457a-9ea2-b001a7a0ee9d",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Firme%2FGrupo%20Firme%20x%20Carin%20Leon%20-%20El%20Toxico%20(LetraLyrics).mp3?alt=media&token=f15ddae3-19cd-4e93-971c-89d28e13b4f7",
+      "genero": "Regional"
+    },
+    {
+      "name": "Me canse de amarte",
+      "artista": "Grupo firme",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20firme.jpg?alt=media&token=cf320853-c460-457a-9ea2-b001a7a0ee9d",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Firme%2FGrupo%20Firme%2C%20Grupo%20Corporacion%20-%20Me%20Canse%20De%20Amarte%20(LETRA).mp3?alt=media&token=77af04e4-4f50-4eae-9e40-d283e9ad5f3e",
+      "genero": "Regional"
+    },
+    {
+      "name": "Calidad",
+      "artista": "Grupo firme",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20firme.jpg?alt=media&token=cf320853-c460-457a-9ea2-b001a7a0ee9d",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Firme%2FGrupo%20Firme%2C%20Luis%20Mexia%20-%20Calidad%20(LetraLyrics).mp3?alt=media&token=70412d0b-f7b1-4fdb-9e38-dcfee0b64378",
+      "genero": "Regional"
+    },
+    {
+      "name": "Mi amor por ti",
+      "artista": "Grupo firme - Banda la Indicada",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20firme.jpg?alt=media&token=cf320853-c460-457a-9ea2-b001a7a0ee9d",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Firme%2FMi%20Amor%20Por%20Ti%20-%20Banda%20La%20Indicada%20ft%20Grupo%20Firme%20(letra%20lyrics).mp3?alt=media&token=18341bc9-0f62-4578-a0ec-199cf076d782",
+      "genero": "Regional"
+    },
+    {
+      "name": "Pideme",
+      "artista": "Grupo firme",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20firme.jpg?alt=media&token=cf320853-c460-457a-9ea2-b001a7a0ee9d",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Firme%2FPideme%20-%20Grupo%20Firme%20(LetraLyrics).mp3?alt=media&token=baa9bde8-1364-4e46-ba77-bc03793a6edd",
+      "genero": "Regional"
     }
 
   ],
