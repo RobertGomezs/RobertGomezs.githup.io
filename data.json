@@ -4018,7 +4018,134 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fgrupo%20fonteras.jpg?alt=media&token=4b33a7f5-8878-4a60-ba74-455b19286c76",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FGrupo%20Frontera%2FQuedate%20Conmigo%20-%20(Video%20Con%20Letras)%20-%20Eslabon%20Armado%20y%20Grupo%20Frontera.mp3?alt=media&token=51d7e3d0-276a-4f8b-bb3d-1d6facf82188",
       "genero": "Regional"
+    },
+    {
+      "name": "Contigo",
+      "artista": "Calibre 50",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fcalibre50.jpg?alt=media&token=79574c4a-d99e-4966-8930-0859142d9205",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FCalibre%2050%2FCalibre%2050%20-%20Contigo%20(LetraLyric).mp3?alt=media&token=06b6ca67-9de6-4d1d-b7a6-017fbacd4d4b",
+      "genero": "Regional"
+    },
+    {
+      "name": "Mi sorpresa fuiste tu",
+      "artista": "Calibre 50",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fcalibre50.jpg?alt=media&token=79574c4a-d99e-4966-8930-0859142d9205",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FCalibre%2050%2FCalibre%2050%20-%20Mi%20Sorpresa%20Fuiste%20T%C3%BA%20(LetrasLyric).mp3?alt=media&token=a25d64da-d9be-40ac-a8aa-1ff7f4b00abd",
+      "genero": "Regional"
+    },
+    {
+      "name": "Miranos ahora",
+      "artista": "Calibre 50",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fcalibre50.jpg?alt=media&token=79574c4a-d99e-4966-8930-0859142d9205",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FCalibre%2050%2FCalibre%2050%20-%20M%C3%ADranos%20Ahora%20(LetraLyric).mp3?alt=media&token=d07bce4a-c7c7-42db-868f-8aa7b85f268e",
+      "genero": "Regional"
+    },
+    {
+      "name": "Por que cambiaste de opinion",
+      "artista": "Calibre 50",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fcalibre50.jpg?alt=media&token=79574c4a-d99e-4966-8930-0859142d9205",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FCalibre%2050%2FCalibre%2050%20-%20Por%20Qu%C3%A9%20Cambiaste%20De%20Opini%C3%B3n%20(LetrasLyric).mp3?alt=media&token=e20ee592-92ea-4e47-9db0-a22b8535a07d",
+      "genero": "Regional"
+    },
+    {
+      "name": "Si te pudiera mentir",
+      "artista": "Calibre 50",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fcalibre50.jpg?alt=media&token=79574c4a-d99e-4966-8930-0859142d9205",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FCalibre%2050%2FCalibre%2050%20-%20Si%20Te%20Pudiera%20Mentir%20(LetraLyric).mp3?alt=media&token=f70317a2-0933-4fa3-a491-61e7a6607b58",
+      "genero": "Regional"
+    },
+    {
+      "name": "Simplemete gracias",
+      "artista": "Calibre 50",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fcalibre50.jpg?alt=media&token=79574c4a-d99e-4966-8930-0859142d9205",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FCalibre%2050%2FCalibre%2050%20-%20Simplemente%20Gracias%20(LetraLyric).mp3?alt=media&token=1310b1b5-fd67-48b1-8ec6-bd2418fdcbf7",
+      "genero": "Regional"
+    },
+    {
+      "name": "Te volveria a elegir",
+      "artista": "Calibre 50",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fcalibre50.jpg?alt=media&token=79574c4a-d99e-4966-8930-0859142d9205",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FCalibre%2050%2FCalibre%2050%20-%20Te%20Volver%C3%ADa%20A%20Elegir%20(LetraLyrics).mp3?alt=media&token=ac5a6e8f-af5c-4761-819d-5e1a70d35684",
+      "genero": "Regional"
+    },
+    {
+      "name": "Tus talidos",
+      "artista": "Calibre 50",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2Fcalibre50.jpg?alt=media&token=79574c4a-d99e-4966-8930-0859142d9205",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FCalibre%2050%2FCalibre%2050%20-%20Tus%20Latidos%20(LetraLyrics).mp3?alt=media&token=72e08f6b-a459-4e4a-b943-57d37679a0b0",
+      "genero": "Regional"
+    },
+    {
+      "name": "Despues de ti, quien",
+      "artista": "La Adictiva",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FLa-Adictiva.jpg?alt=media&token=de814531-05d5-41b0-a105-24d30e46006c",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FLa%20Adictiva%2FDespu%C3%A9s%20de%20ti%2C%20quien%20(letra)%20-%20La%20Adictiva.mp3?alt=media&token=36634f78-1d75-4363-bb02-30445f910a8d",
+      "genero": "Regional"
+    },
+    {
+      "name": "Hombre libre",
+      "artista": "La Adictiva",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FLa-Adictiva.jpg?alt=media&token=de814531-05d5-41b0-a105-24d30e46006c",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FLa%20Adictiva%2FHombre%20Libre%20-%20La%20Adictiva%20-%20Letra.mp3?alt=media&token=926691c1-2c6d-4d08-8e6f-95eae76ecab8",
+      "genero": "Regional"
+    },
+    {
+      "name": "El amor de mi vida",
+      "artista": "La Adictiva",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FLa-Adictiva.jpg?alt=media&token=de814531-05d5-41b0-a105-24d30e46006c",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FLa%20Adictiva%2FLa%20Adictiva%20-%20El%20Amor%20De%20Mi%20Vida%20(LetraLyrics).mp3?alt=media&token=931f7f9c-c4ff-4342-be65-3b47b6efe775",
+      "genero": "Regional"
+    },
+    {
+      "name": "El viejon",
+      "artista": "La Adictiva",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FLa-Adictiva.jpg?alt=media&token=de814531-05d5-41b0-a105-24d30e46006c",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FLa%20Adictiva%2FLa%20Adictiva%20-%20El%20Viej%C3%B3n%20(LetraLyrics).mp3?alt=media&token=0e963f81-3091-4a88-9c21-10af258691a6",
+      "genero": "Regional"
+    },
+    {
+      "name": "En peligro de extincion",
+      "artista": "La Adictiva",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FLa-Adictiva.jpg?alt=media&token=de814531-05d5-41b0-a105-24d30e46006c",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FLa%20Adictiva%2FLa%20Adictiva%20-%20En%20Peligro%20De%20Extinci%C3%B3n%20(LetraLyrics).mp3?alt=media&token=67d612f0-1538-4fc9-8381-8b4cc22338e7",
+      "genero": "Regional"
+    },
+    {
+      "name": "Esta es tu cansion",
+      "artista": "La Adictiva",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FLa-Adictiva.jpg?alt=media&token=de814531-05d5-41b0-a105-24d30e46006c",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FLa%20Adictiva%2FLa%20Adictiva%20-%20Esta%20Es%20Tu%20Canci%C3%B3n%20(LetrasLyrics).mp3?alt=media&token=c5f5d0fb-0cf4-4514-a6fd-30976f821510",
+      "genero": "Regional"
+    },
+    {
+      "name": "Llamada perdida",
+      "artista": "La Adictiva",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FLa-Adictiva.jpg?alt=media&token=de814531-05d5-41b0-a105-24d30e46006c",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FLa%20Adictiva%2FLa%20Adictiva%20-%20Llamada%20Perdida%20(LetraLyrics).mp3?alt=media&token=0bb0f137-f780-4cf2-b05d-6f8234552290",
+      "genero": "Regional"
+    },
+    {
+      "name": "Lo que nunca sera",
+      "artista": "La Adictiva",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FLa-Adictiva.jpg?alt=media&token=de814531-05d5-41b0-a105-24d30e46006c",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FLa%20Adictiva%2FLa%20Adictiva%20-%20Lo%20Que%20Nunca%20Ser%C3%A1.mp3?alt=media&token=1f9d3007-8562-476e-8478-26969feaef2f",
+      "genero": "Regional"
+    },
+    {
+      "name": "Ya solo eres mi ex",
+      "artista": "La Adictiva",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FLa-Adictiva.jpg?alt=media&token=de814531-05d5-41b0-a105-24d30e46006c",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FLa%20Adictiva%2FLa%20Adictiva%20-%20Ya%20Solo%20Eres%20Mi%20Ex%20(LetrasLyrics).mp3?alt=media&token=2a96c742-7ae1-4165-962e-997df26b20fa",
+      "genero": "Regional"
+    },
+    {
+      "name": "Te diran",
+      "artista": "La Adictiva",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FLa-Adictiva.jpg?alt=media&token=de814531-05d5-41b0-a105-24d30e46006c",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FLa%20Adictiva%2FLa%20Adictiva-%20Te%20Dir%C3%A1n%20(Letra)(2016).mp3?alt=media&token=1de6ab48-2ab0-423a-9b94-ce23929efcde",
+      "genero": "Regional"
     }
+
 
   ],
   "notificacion": [
