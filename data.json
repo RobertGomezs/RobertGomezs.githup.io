@@ -4214,6 +4214,55 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2Fimagenes%2FLos%20%C3%81ngeles%20Azules.jpg?alt=media&token=06afb8a2-3988-47d0-b1ed-438815b994aa",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2FAngeles%20Azules%2FLos%20%C3%81ngeles%20Azules%2C%20Santa%20Fe%20Klan%2C%20Cazzu%20-%20T%C3%BA%20y%20T%C3%BA%20(Video%20Oficial).mp3?alt=media&token=d539eae8-2a76-4491-a6dd-504d2f74ea33",
       "genero": "Cumbias"
+    },
+    {
+      "name": "A dios le pido",
+      "artista": "Juanes",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fjuanes.jpg?alt=media&token=81510505-fdb4-475b-9ee3-bb2d51813929",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fjuanes%2FJuanes%20-%20A%20Dios%20Le%20Pido%20(Lyricsletra).mp3?alt=media&token=b68ca731-ec3d-490d-88bf-c376c4d9c423",
+      "genero": "Pop"
+    },
+    {
+      "name": "Es por ti",
+      "artista": "Juanes",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fjuanes.jpg?alt=media&token=81510505-fdb4-475b-9ee3-bb2d51813929",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fjuanes%2FJuanes%20-%20Es%20por%20ti.mp3?alt=media&token=031a03c8-ffa9-431c-b8b6-f0cf14e66de4",
+      "genero": "Pop"
+    },
+    {
+      "name": "Gotas de Agua dulce",
+      "artista": "Juanes",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fjuanes.jpg?alt=media&token=81510505-fdb4-475b-9ee3-bb2d51813929",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fjuanes%2FJuanes%20-%20Gotas%20De%20Agua%20Dulce%20(Official%20Music%20Video).mp3?alt=media&token=52f552c2-2f7e-4e60-9bb9-19a673147230",
+      "genero": "Pop"
+    },
+    {
+      "name": "La camisa negra",
+      "artista": "Juanes",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fjuanes.jpg?alt=media&token=81510505-fdb4-475b-9ee3-bb2d51813929",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fjuanes%2FJuanes%20-%20La%20Camisa%20Negra%20(Lyricsletra).mp3?alt=media&token=41f54318-c6b9-4156-80cd-6ae746ceaae1",
+      "genero": "Pop"
+    },
+    {
+      "name": "Me enamora",
+      "artista": "Juanes",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fjuanes.jpg?alt=media&token=81510505-fdb4-475b-9ee3-bb2d51813929",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fjuanes%2FJuanes%20-%20Me%20Enamora%20(Official%20Music%20Video).mp3?alt=media&token=fd2f9bee-e66e-45e7-8608-26da03e9ecc2",
+      "genero": "Pop"
+    },
+    {
+      "name": "No valgo nada sin tu amor",
+      "artista": "Juanes",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fjuanes.jpg?alt=media&token=81510505-fdb4-475b-9ee3-bb2d51813929",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fjuanes%2FJuanes%20-%20Nada%20Valgo%20Sin%20Tu%20Amor%20(letra).mp3?alt=media&token=b1758656-32e3-4b0b-a252-7a8c56136040",
+      "genero": "Pop"
+    },
+    {
+      "name": "Volver a ver",
+      "artista": "Juanes",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fimagenes%2Fjuanes.jpg?alt=media&token=81510505-fdb4-475b-9ee3-bb2d51813929",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/pop%2Fjuanes%2FJuanes%20-%20Volverte%20A%20Ver%20(Official%20Music%20Video).mp3?alt=media&token=09c8a23c-9272-420c-8b41-71fb84ccf037",
+      "genero": "Pop"
     }
 
   ],
