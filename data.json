@@ -4144,8 +4144,77 @@
       "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2Fimagenes%2FLa-Adictiva.jpg?alt=media&token=de814531-05d5-41b0-a105-24d30e46006c",
       "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/Regional%2FLa%20Adictiva%2FLa%20Adictiva-%20Te%20Dir%C3%A1n%20(Letra)(2016).mp3?alt=media&token=1de6ab48-2ab0-423a-9b94-ce23929efcde",
       "genero": "Regional"
+    },
+    {
+      "name": "17 Años",
+      "artista": "Los Angeles Azules",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2Fimagenes%2FLos%20%C3%81ngeles%20Azules.jpg?alt=media&token=06afb8a2-3988-47d0-b1ed-438815b994aa",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2FAngeles%20Azules%2F17%20A%C3%B1os%20-%20Los%20Angeles%20Azules%20(Letra).mp3?alt=media&token=3c521449-ec31-4b2c-a8ca-7400be076340",
+      "genero": "Cumbias"
+    },
+    {
+      "name": "20 Rosas",
+      "artista": "Los Angeles Azules",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2Fimagenes%2FLos%20%C3%81ngeles%20Azules.jpg?alt=media&token=06afb8a2-3988-47d0-b1ed-438815b994aa",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2FAngeles%20Azules%2FLos%20Angeles%20Azules%20-%2020%20Rosas%20(Letras).mp3?alt=media&token=c51628c1-b03f-4c5e-a17a-7347ce440a97",
+      "genero": "Cumbias"
+    },
+    {
+      "name": "Ella se olvido de mi",
+      "artista": "Los Angeles Azules",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2Fimagenes%2FLos%20%C3%81ngeles%20Azules.jpg?alt=media&token=06afb8a2-3988-47d0-b1ed-438815b994aa",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2FAngeles%20Azules%2FLos%20Angeles%20Azules%20-%20Ella%20Se%20Olvido%20De%20Mi%20(Video%20Oficial).mp3?alt=media&token=e2946612-6a48-419e-a0dd-d243645adb00",
+      "genero": "Cumbias"
+    },
+    {
+      "name": "Acariñame",
+      "artista": "Los Angeles Azules",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2Fimagenes%2FLos%20%C3%81ngeles%20Azules.jpg?alt=media&token=06afb8a2-3988-47d0-b1ed-438815b994aa",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2FAngeles%20Azules%2FLos%20%C3%81ngeles%20Azules%20-%20Acar%C3%AD%C3%B1ame%20feat.%20Julieta%20Venegas%2C%20Juan%20Ingaramo%2C%20Jay%20de%20la%20Cueva.mp3?alt=media&token=43650db0-3b43-4fde-9199-23a499e583cb",
+      "genero": "Cumbias"
+    },
+    {
+      "name": "Como te voy a olvidar",
+      "artista": "Los Angeles Azules",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2Fimagenes%2FLos%20%C3%81ngeles%20Azules.jpg?alt=media&token=06afb8a2-3988-47d0-b1ed-438815b994aa",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2FAngeles%20Azules%2FLos%20%C3%81ngeles%20Azules%20-%20Como%20Te%20Voy%20A%20Olvidar%20(Letra).mp3?alt=media&token=cc0e2821-12d8-4471-bd4f-ae33b2becf8e",
+      "genero": "Cumbias"
+    },
+    {
+      "name": "Mi niña mujar",
+      "artista": "Los Angeles Azules - HasAsh",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2Fimagenes%2FLos%20%C3%81ngeles%20Azules.jpg?alt=media&token=06afb8a2-3988-47d0-b1ed-438815b994aa",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2FAngeles%20Azules%2FLos%20%C3%81ngeles%20Azules%20-%20Mi%20Ni%C3%B1a%20Mujer%20ft.%20HaAsh%20(De%20Plaza%20En%20Plaza).mp3?alt=media&token=095a62fb-b632-4739-b45f-25c82310b838",
+      "genero": "Cumbias"
+    },
+    {
+      "name": "Mis sentimientos",
+      "artista": "Los Angeles Azules",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2Fimagenes%2FLos%20%C3%81ngeles%20Azules.jpg?alt=media&token=06afb8a2-3988-47d0-b1ed-438815b994aa",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2FAngeles%20Azules%2FLos%20%C3%81ngeles%20Azules%20-%20Mis%20Sentimientos%20ft.%20Ximena%20Sari%C3%B1ana%20(Live).mp3?alt=media&token=61ba55f4-f33b-4d40-bd15-507a9be07bcd",
+      "genero": "Cumbias"
+    },
+    {
+      "name": "Nunca es suficiente",
+      "artista": "Los Angeles Azules",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2Fimagenes%2FLos%20%C3%81ngeles%20Azules.jpg?alt=media&token=06afb8a2-3988-47d0-b1ed-438815b994aa",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2FAngeles%20Azules%2FLos%20%C3%81ngeles%20Azules%20-%20Nunca%20Es%20Suficiente%20ft.%20Natalia%20Lafourcade%20(letra).mp3?alt=media&token=b4bb8851-a054-41ab-a5f1-5beee861cabe",
+      "genero": "Cumbias"
+    },
+    {
+      "name": "Otra Noche",
+      "artista": "Los Angeles Azules - Kciki Nicole",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2Fimagenes%2FLos%20%C3%81ngeles%20Azules.jpg?alt=media&token=06afb8a2-3988-47d0-b1ed-438815b994aa",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2FAngeles%20Azules%2FLos%20%C3%81ngeles%20Azules%2C%20Nicki%20Nicole%20-%20Otra%20Noche%20(LetraLyrics).mp3?alt=media&token=68ada6d8-8119-4c06-a6c2-4c57c35ac9da",
+      "genero": "Cumbias"
+    },
+    {
+      "name": "Tu y tu",
+      "artista": "Los Angeles Azules - Santa fe klan, cazu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2Fimagenes%2FLos%20%C3%81ngeles%20Azules.jpg?alt=media&token=06afb8a2-3988-47d0-b1ed-438815b994aa",
+      "url": "https://firebasestorage.googleapis.com/v0/b/musica-3f1ff.appspot.com/o/cumbias%2FAngeles%20Azules%2FLos%20%C3%81ngeles%20Azules%2C%20Santa%20Fe%20Klan%2C%20Cazzu%20-%20T%C3%BA%20y%20T%C3%BA%20(Video%20Oficial).mp3?alt=media&token=d539eae8-2a76-4491-a6dd-504d2f74ea33",
+      "genero": "Cumbias"
     }
-
 
   ],
   "notificacion": [
